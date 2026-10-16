@@ -1,0 +1,39 @@
+# 1× B200 reverse-embedding run on 320K samples.
+# eff_bs = batch_size × grad_accum_steps × world_size = 256 × 2 × 1 = 512
+# Hparams identical to configs/transfer/random/train3B_size320000_random.yaml apart
+# from the single-GPU bs/grad_accum repacking; lr unchanged because eff_bs is preserved.
+# (bs=512 ga=1 OOMs on 192GB B200 — activations alone exceed HBM at that batch.)
+data:
+  shuffle: true
+  num_workers: 2
+  pin_memory: true
+
+training:
+  num_epochs: 4
+  batch_size: 256             # per-GPU on 192GB B200 — matches working b200 baseline
+  grad_accum_steps: 2         # eff_bs = 256 × 2 × 1 = 512
+  max_grad_norm: 1.0
+  warmup_ratio: 0.15
+  use_scheduler: true
+  dropout: 0.1
+  betas: [0.9, 0.95]
+  eps: 1e-8
+  learning_rate: 7.0e-4       # unchanged — eff_bs preserved
+  min_lr_ratio: 0.15
+  weight_decay: 0.01
+  label_smoothing: 0.075
+  tau: 0.9
+  sim_penalty: false
+  sim_weight: 0.5
+  eval_every: 200
+  val_max_samples: 1000
+  early_stop:
+    enabled: true
+    patience: 5
+    min_delta: 0.001
+
+logging:
+  wandb_project: einv-adapter-pretrain-sweep
+  log_every: 20
+  progress_update_freq: 10
+  group: "Adapter-3B-reverse-320k"

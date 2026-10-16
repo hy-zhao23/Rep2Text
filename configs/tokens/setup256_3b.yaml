@@ -1,0 +1,36 @@
+models:
+  dec_id: "meta-llama/Llama-3.2-3B"
+  emb_layer: 10
+  emb_id: "meta-llama/Llama-3.2-3B"
+
+params:
+  max_len: 256 # maximum num of predicted tokens for data processing
+  max_seq_len: 640 # cap total sequence. The prefix holds n_vecs soft-prompt placeholders
+                   # (dataloader._prefix_str), so real length = n_vecs + ~95 prompt + max_len + eos
+                   # = 256 + 95 + 256 + 1 = 608. Both the inherited 200 and my earlier 328
+                   # silently truncated the answer the model is meant to reconstruct.
+  gen_max_len: 256 # max new tokens to generate during eval
+  overlap_len: 0 # num of overlapped tokens between training samples
+  train_size: 2000000 # 2M sequences
+  train_data: "wikipedia"
+  embedding_batch_size: 256 # 40G MIG slice, 3B fp32, 256-token seqs
+  save_every: 50
+  pretrain_ratio: 0.4 # finetune ratio is 0.6 then
+
+dir:
+  result_dir: "results"
+  tmp_dir: "tmp"
+  embedding_dir: "tmp/embeddings"  # settings.py appends <emb_name>/l{layer}t{len}
+  token_dir: "tmp/tokens"
+  fig_dir: "results/figs"
+  data_dir: "datasets"
+  weight_dir: "weights"
+  checkpoint_dir: "tmp/checkpoints"
+  prompt_dir: "prompts"
+
+projector:
+  n_vecs: 256
+  ei_proj_dropout: 0.2
+  ei_proj_expansion: 0.5
+  use_patch_token: true
+  pad_side: "right"

@@ -1,0 +1,44 @@
+{
+  "expansion": {
+    "0.5": "l10t16p16/exp05/val_einv_metrics.json",
+    "1": "l10t16p16/exp1/val_einv_metrics.json",
+    "2": "l10t16p16/exp2/val_einv_metrics.json",
+    "4": "l10t16p16/exp4/val_einv_metrics.json",
+    "8": "l10t16p16/exp8/val_einv_metrics.json"
+  },
+  "epoches": {
+    "Pretrain": "l10t16p16/exp4/val_einv_metrics.json",
+    "Finetune": "l10t16p16/exp4/val_einv_lora_metrics.json"
+  },
+  "tokens": {
+    "8": "l10t16p16/t8/val_einv_metrics.json",
+    "16": "l10t16p16/exp05/val_einv_metrics.json",
+    "32": "l10t64p32/t32/val_einv_metrics.json",
+    "64": "l10t64p64/t64/val_einv_metrics.json",
+    "128": "l10t64p128/t128/val_einv_metrics.json"
+  },
+  "layers": {
+    "L5": "l5t16p16/l5/val_einv_metrics.json",
+    "L10": "l10t16p16/exp05/val_einv_metrics.json",
+    "L15": "l15t16p16/l15/val_einv_metrics.json",
+    "L20": "l20t16p16/l20/val_einv_metrics.json",
+    "L25": "l25t16p16/l25/val_einv_metrics.json",
+    "L30": "l30t16p16/l30/val_einv_metrics.json"
+  },
+  "n_vecs": {
+    "1": "l10t16p1/p1/val_einv_metrics.json",
+    "2": "l10t16p2/p2/val_einv_metrics.json",
+    "4": "l10t16p4/p4/val_einv_metrics.json",
+    "8": "l10t16p8/p8/val_einv_metrics.json",
+    "16": "l10t16p16/exp05/val_einv_metrics.json",
+    "32": "l10t16p32/p32/val_einv_metrics.json"
+  },
+  "models": {
+    "L3B": "l10t16p16/l3b/val_einv_metrics.json",
+    "L70B": "l10t16p16/l70b/val_einv_metrics.json"
+  },
+  "transfer": {
+    "G7B": "l10t16p16/g7b/val_einv_metrics.json",
+    "M7B": "l10t16p16/m7b/val_einv_metrics.json"
+  }
+}

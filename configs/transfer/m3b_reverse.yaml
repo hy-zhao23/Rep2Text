@@ -1,0 +1,33 @@
+models:
+  dec_id: "meta-llama/Llama-3.2-3B"
+  emb_layer: 10
+  emb_id: "mistralai/Mistral-7B-v0.1"
+
+params:
+  max_len: 16
+  max_seq_len: 200
+  gen_max_len: 25
+  overlap_len: 0
+  train_size: 2000000           # baseline pool; pretrain_ratio=0.4 -> 640k train + 80k val + 80k test
+  train_data: "wikipedia"
+  embedding_batch_size: 1000
+  save_every: 50
+  pretrain_ratio: 0.4
+
+dir:
+  result_dir: "results"
+  tmp_dir: "tmp"
+  embedding_dir: "tmp/embeddings_reverse"   # <-- reversed token+embedding shards
+  token_dir: "tmp/tokens"
+  fig_dir: "results/figs"
+  data_dir: "datasets"
+  weight_dir: "weights"
+  checkpoint_dir: "tmp/checkpoints_reverse"
+  prompt_dir: "prompts"
+
+projector:
+  n_vecs: 16
+  ei_proj_dropout: 0.2
+  ei_proj_expansion: 0.5
+  use_patch_token: true
+  pad_side: "right"

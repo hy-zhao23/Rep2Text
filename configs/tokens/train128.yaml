@@ -1,0 +1,30 @@
+# Stage 1: Adapter Pretraining Configuration for SLURM Multi-Node
+data:
+  shuffle: true
+  num_workers: 1
+  pin_memory: true
+
+training:
+  num_epochs: 3
+  eval_every_steps: 200
+  batch_size: 16 # per-GPU [-]
+  grad_accum_steps: 32 # Reduced from 8 to improve gradient freshness
+  max_grad_norm: 1.0
+  warmup_ratio: 0.15 # Reduced from 0.1 to extend learning phase
+  use_scheduler: true # Enable learning rate scheduler
+  dropout: 0.1 # Reduced from 0.2 for adapter training
+  betas: [0.9, 0.95]
+  eps: 1e-8
+  learning_rate: 1e-3
+  min_lr_ratio: 0.15
+  weight_decay: 0.01
+  label_smoothing: 0.075
+  tau: 0.9 # (CE temperature)
+  sim_penalty: false
+  sim_weight: 0.5
+
+logging:
+  wandb_project: einv-adapter-pretrain
+  log_every: 20
+  progress_update_freq: 10
+  group: "Adapter-tokens"

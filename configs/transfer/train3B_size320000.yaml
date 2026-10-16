@@ -1,0 +1,35 @@
+# Stage 1 sweep: 3B + 320K data
+data:
+  shuffle: true
+  num_workers: 1
+  pin_memory: true
+
+training:
+  num_epochs: 4
+  batch_size: 64              # per-GPU on 80G a100; eff_bs = 64 × 4 × 2 GPU = 512
+  grad_accum_steps: 4
+  max_grad_norm: 1.0
+  warmup_ratio: 0.15
+  use_scheduler: true
+  dropout: 0.1
+  betas: [0.9, 0.95]
+  eps: 1e-8
+  learning_rate: 7.0e-4       # sqrt-scaled
+  min_lr_ratio: 0.15
+  weight_decay: 0.01
+  label_smoothing: 0.075
+  tau: 0.9
+  sim_penalty: false
+  sim_weight: 0.5
+  eval_every: 200
+  val_max_samples: 1000
+  early_stop:
+    enabled: true
+    patience: 5
+    min_delta: 0.001
+
+logging:
+  wandb_project: einv-adapter-pretrain-sweep
+  log_every: 20
+  progress_update_freq: 10
+  group: "Adapter-3B-sweep-320k"

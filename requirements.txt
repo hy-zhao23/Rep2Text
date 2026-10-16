@@ -1,0 +1,43 @@
+# Curated dependency list for the embedding-inversion project.
+# Pinned to the versions actually used to produce the paper results.
+# Regenerated 2026-07-22 from the live environment (Python 3.12.0).
+#
+# Install torch first so the CUDA build resolves correctly:
+#   pip install torch==2.7.1 --index-url https://download.pytorch.org/whl/cu128
+#   pip install -r requirements.txt
+#
+# For a byte-exact environment use requirements-lock.txt (full pip freeze).
+# mpi4py must be built against the local MPI and is therefore not pinned here:
+#   conda install -c conda-forge mpi4py openmpi
+# It is only needed by the CPU tokenization stage
+# (experiments/datasets/tokenize_sequences.py).
+
+# --- core ---
+torch==2.7.1              # built against CUDA 12.8 (reports as 2.7.1+cu128)
+numpy==1.26.4             # keep <2.0; transformer-lens 2.16 is not numpy-2 clean
+scipy==1.16.2
+
+# --- transformers stack ---
+transformers==4.56.1
+tokenizers==0.22.0
+transformer-lens==2.16.1  # HookedTransformer + stop_at_layer early exit
+accelerate==1.10.1
+peft==0.17.1
+safetensors==0.6.2
+huggingface-hub==0.35.0
+datasets==4.1.0
+deepspeed==0.18.0
+
+# --- evaluation ---
+evaluate==0.4.6
+sentence-transformers==5.2.3
+nltk==3.9.2               # needs: python -c "import nltk; nltk.download('punkt')"
+openai==2.6.1             # only for the GPT-judge path (utils/eval/gpt_scores.py)
+
+# --- data / plotting ---
+pandas==2.3.2
+matplotlib==3.10.7
+tqdm==4.67.1
+
+# --- experiment tracking (optional) ---
+wandb==0.21.4             # set WANDB_MODE=disabled to run without an account

@@ -1,0 +1,52 @@
+# Stage 1: Adapter Pretraining — 32B rerun aligned to the 72B recipe.
+#
+# The original train32B.yaml warms up over 0.3 x 3175 = 952 steps (1.5 epochs),
+# so the adapter crawls through the phase where it should be moving fastest:
+# at step 300 it was still at ppl 12130, while the 72B run (warmup 281 steps)
+# was already at 7.21. It never recovered that deficit and finished at ppl 5.69,
+# below the 14B point.
+#
+# num_epochs is 8 rather than the original 5 or the 72B's 3, with early stopping
+# deciding where it actually ends. That leaves 32B with *more* optimization than
+# the model it is compared against, so a 72B win here is a conservative result
+# rather than an artifact of unequal training.
+#
+# Writes to TRAIN_TAG=transfer-q32b-v2; the original run's weights and results
+# are untouched.
+data:
+  shuffle: true
+  num_workers: 1
+  pin_memory: true
+
+training:
+  num_epochs: 8 # upper bound; early stopping decides where it actually ends
+  batch_size: 28 # per-GPU; 28 * 9 * 4DP = 1008 effective, unchanged
+  grad_accum_steps: 9
+  max_grad_norm: 1.0
+  warmup_ratio: 0.15 # was 0.3 — the actual fix; 0.15 * 5080 = 762 steps
+  use_scheduler: true
+  dropout: 0.1
+  betas: [0.9, 0.95]
+  eps: 1e-8
+  learning_rate: 1e-3 # was 1.5e-3 — aligned to 72B, not a performance change
+  min_lr_ratio: 0.15 # was 0.1 — aligned to 72B
+  weight_decay: 0.01
+  label_smoothing: 0.075
+  tau: 1.0 # (CE temperature)
+  sim_penalty: false
+  sim_weight: 0.5
+  # No gradient checkpointing: the original 32B ran the same TP=2/bs28 on 80G
+  # cards without it (65GB/2 = 32.5GB of weights leaves ~47GB for activations).
+  # It is mathematically a no-op and costs ~35% throughput.
+  use_gradient_checkpointing: false
+  early_stop:
+    enabled: true
+    patience: 3 # epochs without improvement before stopping
+    min_delta: 1.0e-3
+    val_max_batches: 40 # ~4.5k val samples per eval, forward-only
+
+logging:
+  wandb_project: einv-adapter-pretrain
+  log_every: 20
+  progress_update_freq: 10
+  group: "Adapter-l10t16"

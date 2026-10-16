@@ -1,0 +1,3502 @@
+[
+  {
+    "orig_idx": 2,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2,
+    "n_tokens": 15,
+    "gt_truncated": "DateMySchool is an online dating platform targeted toward university students and alumni."
+  },
+  {
+    "orig_idx": 25,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 25,
+    "n_tokens": 15,
+    "gt_truncated": "Viscount Ranelagh was a title in the Peerage of Ireland."
+  },
+  {
+    "orig_idx": 61,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 61,
+    "n_tokens": 14,
+    "gt_truncated": ", officially the ,  is a   in the province of , ."
+  },
+  {
+    "orig_idx": 64,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 64,
+    "n_tokens": 15,
+    "gt_truncated": "The Parnac and Saint Formation is a geologic formation in France."
+  },
+  {
+    "orig_idx": 68,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 68,
+    "n_tokens": 15,
+    "gt_truncated": "Prime Directive Records is an independent record label based in Balboa, California."
+  },
+  {
+    "orig_idx": 85,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 85,
+    "n_tokens": 15,
+    "gt_truncated": "Feng Jialiang (Chinese: 封加梁; b."
+  },
+  {
+    "orig_idx": 99,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 99,
+    "n_tokens": 14,
+    "gt_truncated": "Cullen Bullen is a village in New South Wales, Australia."
+  },
+  {
+    "orig_idx": 111,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 111,
+    "n_tokens": 14,
+    "gt_truncated": "Mill Creek flows into the Black River near Lyons Falls, New York."
+  },
+  {
+    "orig_idx": 115,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 115,
+    "n_tokens": 16,
+    "gt_truncated": "Slovakia women's national floorball team is the national team of Slovakia."
+  },
+  {
+    "orig_idx": 124,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 124,
+    "n_tokens": 15,
+    "gt_truncated": "Pyrenecosa is a wolf spider genus, with three European species."
+  },
+  {
+    "orig_idx": 163,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 163,
+    "n_tokens": 16,
+    "gt_truncated": "The year 1946 in architecture involved some significant architectural events and new buildings."
+  },
+  {
+    "orig_idx": 164,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 164,
+    "n_tokens": 14,
+    "gt_truncated": "In Canada, motor vehicles are primarily powered by gasoline or diesel fuel."
+  },
+  {
+    "orig_idx": 175,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 175,
+    "n_tokens": 15,
+    "gt_truncated": "Sanjay Purohit is an Indian entrepreneur and renowned business restructuring professional."
+  },
+  {
+    "orig_idx": 180,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 180,
+    "n_tokens": 14,
+    "gt_truncated": "There are over 9,000 Grade I listed buildings in England."
+  },
+  {
+    "orig_idx": 181,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 181,
+    "n_tokens": 16,
+    "gt_truncated": "Santhosh Pandit is an Indian film actor, singer and internet celebrity."
+  },
+  {
+    "orig_idx": 183,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 183,
+    "n_tokens": 14,
+    "gt_truncated": "Mama is a monthly women's magazine published in Stockholm, Sweden."
+  },
+  {
+    "orig_idx": 188,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 188,
+    "n_tokens": 16,
+    "gt_truncated": "Ethmia penthica is a moth in the family Depressariidae."
+  },
+  {
+    "orig_idx": 195,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 195,
+    "n_tokens": 16,
+    "gt_truncated": "Below is a list of siteswaps or juggling patterns by siteswap."
+  },
+  {
+    "orig_idx": 203,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 203,
+    "n_tokens": 15,
+    "gt_truncated": "Flat Rock is a village  in Crawford County, Illinois, United States."
+  },
+  {
+    "orig_idx": 258,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 258,
+    "n_tokens": 16,
+    "gt_truncated": "Detonidae is a family of woodlice in the order Isopoda."
+  },
+  {
+    "orig_idx": 302,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 302,
+    "n_tokens": 16,
+    "gt_truncated": "William Boteler (ca. 15401602) was an English politician."
+  },
+  {
+    "orig_idx": 347,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 347,
+    "n_tokens": 16,
+    "gt_truncated": "Lulu is a 1914 Italian film directed by Augusto Genina."
+  },
+  {
+    "orig_idx": 366,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 366,
+    "n_tokens": 16,
+    "gt_truncated": "The following is list of characters the appear in the cartoon series, Generator Rex."
+  },
+  {
+    "orig_idx": 375,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 375,
+    "n_tokens": 14,
+    "gt_truncated": "This is not to be confused with the poem by Gilbert Frankau."
+  },
+  {
+    "orig_idx": 405,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 405,
+    "n_tokens": 16,
+    "gt_truncated": "Ösper is a river of North Rhine-Westphalia, Germany."
+  },
+  {
+    "orig_idx": 408,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 408,
+    "n_tokens": 16,
+    "gt_truncated": "Sustipan is a small peninsula located in the southwestern part of Split."
+  },
+  {
+    "orig_idx": 423,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 423,
+    "n_tokens": 14,
+    "gt_truncated": "9 is the fifth studio album by the Brooklyn native Lil' Kim."
+  },
+  {
+    "orig_idx": 445,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 445,
+    "n_tokens": 15,
+    "gt_truncated": "During the 1946–47 English football season, Everton F.C."
+  },
+  {
+    "orig_idx": 450,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 450,
+    "n_tokens": 15,
+    "gt_truncated": "Albert Isen was the first directly-elected mayor of Torrance, California."
+  },
+  {
+    "orig_idx": 455,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 455,
+    "n_tokens": 16,
+    "gt_truncated": "Meharia incurvariella is a moth in the family Cossidae."
+  },
+  {
+    "orig_idx": 471,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 471,
+    "n_tokens": 16,
+    "gt_truncated": "Haiti competed at the 1928 Summer Olympics in Amsterdam, Netherlands."
+  },
+  {
+    "orig_idx": 492,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 492,
+    "n_tokens": 16,
+    "gt_truncated": "Reserve is a village in Catron County, New Mexico, United States."
+  },
+  {
+    "orig_idx": 493,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 493,
+    "n_tokens": 14,
+    "gt_truncated": "The Ana River is a short spring-fed river in south-central Oregon."
+  },
+  {
+    "orig_idx": 536,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 536,
+    "n_tokens": 15,
+    "gt_truncated": "Gemenele is a commune located in Brăila County, Romania."
+  },
+  {
+    "orig_idx": 537,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 537,
+    "n_tokens": 15,
+    "gt_truncated": "Fely Crisóstomo is a Filipina film director and actress."
+  },
+  {
+    "orig_idx": 540,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 540,
+    "n_tokens": 16,
+    "gt_truncated": "Statistics of Maltese Premier League in season 1946/1947."
+  },
+  {
+    "orig_idx": 592,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 592,
+    "n_tokens": 15,
+    "gt_truncated": "Cooper Point is a point in the U.S. state of Washington."
+  },
+  {
+    "orig_idx": 600,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 600,
+    "n_tokens": 15,
+    "gt_truncated": "Pasjača is a village situated in Niš municipality in Serbia."
+  },
+  {
+    "orig_idx": 652,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 652,
+    "n_tokens": 15,
+    "gt_truncated": "Untuk Rena (For Rena) is an album by Mocca."
+  },
+  {
+    "orig_idx": 658,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 658,
+    "n_tokens": 16,
+    "gt_truncated": "Coleophora maturella is a moth of the family Coleophoridae."
+  },
+  {
+    "orig_idx": 672,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 672,
+    "n_tokens": 16,
+    "gt_truncated": "Charlie Cunningham is a British singer-songwriter and guitarist from Buckinghamshire, England."
+  },
+  {
+    "orig_idx": 683,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 683,
+    "n_tokens": 14,
+    "gt_truncated": "JoJo is an American Pop/R&B singer, songwriter and actress."
+  },
+  {
+    "orig_idx": 711,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 711,
+    "n_tokens": 16,
+    "gt_truncated": "Sainte-Foi is a commune in the Ariège department in southwestern France."
+  },
+  {
+    "orig_idx": 712,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 712,
+    "n_tokens": 14,
+    "gt_truncated": "Christ Church Cathedral is the Episcopal cathedral for the Diocese of Missouri."
+  },
+  {
+    "orig_idx": 713,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 713,
+    "n_tokens": 15,
+    "gt_truncated": "To the Western World is a documentary film directed by Margy Kinmonth."
+  },
+  {
+    "orig_idx": 755,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 755,
+    "n_tokens": 16,
+    "gt_truncated": "Portage Falls are three large waterfalls located along the Genesee River."
+  },
+  {
+    "orig_idx": 758,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 758,
+    "n_tokens": 14,
+    "gt_truncated": "Navoiy Region () is one of the regions of Uzbekistan."
+  },
+  {
+    "orig_idx": 763,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 763,
+    "n_tokens": 15,
+    "gt_truncated": "A total lunar eclipse took place on December 19, 1945."
+  },
+  {
+    "orig_idx": 772,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 772,
+    "n_tokens": 15,
+    "gt_truncated": "Statistics of National Association Foot Ball League in season 1919-20."
+  },
+  {
+    "orig_idx": 779,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 779,
+    "n_tokens": 16,
+    "gt_truncated": "Arator was a sixth-century Christian poet from Liguria in northwestern Italy."
+  },
+  {
+    "orig_idx": 813,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 813,
+    "n_tokens": 14,
+    "gt_truncated": "Ed Driscoll is an American writer, blogger, and journalist."
+  },
+  {
+    "orig_idx": 830,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 830,
+    "n_tokens": 14,
+    "gt_truncated": "Kyenjojo is a town in the Western Region of Uganda."
+  },
+  {
+    "orig_idx": 833,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 833,
+    "n_tokens": 16,
+    "gt_truncated": "Aniwa is a town in Shawano County, Wisconsin, United States."
+  },
+  {
+    "orig_idx": 846,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 846,
+    "n_tokens": 16,
+    "gt_truncated": "Statistics of Czechoslovak First League in the 1967–68 season."
+  },
+  {
+    "orig_idx": 857,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 857,
+    "n_tokens": 16,
+    "gt_truncated": "Maré Airport  is an airport in Maré, New Caledonia."
+  },
+  {
+    "orig_idx": 906,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 906,
+    "n_tokens": 15,
+    "gt_truncated": "Rana temporaria temporaria is a largely terrestrial frog native to Europe."
+  },
+  {
+    "orig_idx": 933,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 933,
+    "n_tokens": 14,
+    "gt_truncated": "This word has distinct meanings in logic, philosophy, and common usage."
+  },
+  {
+    "orig_idx": 964,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 964,
+    "n_tokens": 15,
+    "gt_truncated": "Aristotle of Cyrene (or Aristoteles, ; fl."
+  },
+  {
+    "orig_idx": 996,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 996,
+    "n_tokens": 16,
+    "gt_truncated": "Western Kentucky University is a public university in Bowling Green, Kentucky, United States."
+  },
+  {
+    "orig_idx": 1004,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1004,
+    "n_tokens": 14,
+    "gt_truncated": "Robert Hogan is a judge currently serving on the Tax Court of Canada."
+  },
+  {
+    "orig_idx": 1008,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1008,
+    "n_tokens": 15,
+    "gt_truncated": "Staro Selo is a village near Otočac, Croatia."
+  },
+  {
+    "orig_idx": 1059,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1059,
+    "n_tokens": 16,
+    "gt_truncated": "Mountain Iron Mine is a former mine in Mountain Iron, Minnesota, United States."
+  },
+  {
+    "orig_idx": 1063,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1063,
+    "n_tokens": 16,
+    "gt_truncated": "The Cágado River is a river of Sergipe state in northeastern Brazil."
+  },
+  {
+    "orig_idx": 1074,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1074,
+    "n_tokens": 16,
+    "gt_truncated": "This article describes the United States presidential election, 1956, in Missouri."
+  },
+  {
+    "orig_idx": 1084,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1084,
+    "n_tokens": 15,
+    "gt_truncated": "Nanchen Road () is a station on Shanghai Metro Line 7."
+  },
+  {
+    "orig_idx": 1165,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1165,
+    "n_tokens": 15,
+    "gt_truncated": "USS Herbert (DD-160) was a Wickes-class destroyer."
+  },
+  {
+    "orig_idx": 1169,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1169,
+    "n_tokens": 14,
+    "gt_truncated": "Andrew Simmons is a broadcast journalist, currently working with Al Jazeera English."
+  },
+  {
+    "orig_idx": 1204,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1204,
+    "n_tokens": 14,
+    "gt_truncated": "A Taste of Strawbs is a box-set album by Strawbs."
+  },
+  {
+    "orig_idx": 1223,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1223,
+    "n_tokens": 14,
+    "gt_truncated": "The Swiss Bankers Association is a professional organization of Swiss financial institutions."
+  },
+  {
+    "orig_idx": 1224,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1224,
+    "n_tokens": 16,
+    "gt_truncated": "Statistics of Ekstraklasa for the 1962–63 season."
+  },
+  {
+    "orig_idx": 1247,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1247,
+    "n_tokens": 16,
+    "gt_truncated": "From the Beginning is the first compilation album by the English rock band Small Faces."
+  },
+  {
+    "orig_idx": 1335,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1335,
+    "n_tokens": 15,
+    "gt_truncated": "is a video game director, and the chief director of Brownie Brown."
+  },
+  {
+    "orig_idx": 1365,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1365,
+    "n_tokens": 15,
+    "gt_truncated": "Kim Won-il (born 1942) is a South Korean writer."
+  },
+  {
+    "orig_idx": 1380,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1380,
+    "n_tokens": 15,
+    "gt_truncated": "Carl Zehr (born ) is a former politician in Ontario, Canada."
+  },
+  {
+    "orig_idx": 1410,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1410,
+    "n_tokens": 16,
+    "gt_truncated": "Sunol Valley () is located in Alameda County, California, United States."
+  },
+  {
+    "orig_idx": 1461,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1461,
+    "n_tokens": 14,
+    "gt_truncated": "The Osaka Journals is the second album from Sajama Cut."
+  },
+  {
+    "orig_idx": 1469,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1469,
+    "n_tokens": 15,
+    "gt_truncated": "John Godfrey (born 1942) is a Canadian cabinet minister."
+  },
+  {
+    "orig_idx": 1485,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1485,
+    "n_tokens": 14,
+    "gt_truncated": "The Rochester Basin, at , is the deepest part of Lake Ontario."
+  },
+  {
+    "orig_idx": 1515,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1515,
+    "n_tokens": 15,
+    "gt_truncated": "Frumosu is a commune located in Suceava County, Romania."
+  },
+  {
+    "orig_idx": 1521,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1521,
+    "n_tokens": 16,
+    "gt_truncated": "Vénosc is a former commune in the Isère department in southeastern France."
+  },
+  {
+    "orig_idx": 1530,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1530,
+    "n_tokens": 14,
+    "gt_truncated": "Village Idiot is a 2012 album by Andreas Johnson."
+  },
+  {
+    "orig_idx": 1531,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1531,
+    "n_tokens": 16,
+    "gt_truncated": "Belo Polje is a village in the municipality of Brus, Serbia."
+  },
+  {
+    "orig_idx": 1564,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1564,
+    "n_tokens": 14,
+    "gt_truncated": "The Dying of Today is a play by British playwright Howard Barker."
+  },
+  {
+    "orig_idx": 1568,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1568,
+    "n_tokens": 14,
+    "gt_truncated": "Deana Haggag is President and CEO of United States Artists."
+  },
+  {
+    "orig_idx": 1571,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1571,
+    "n_tokens": 15,
+    "gt_truncated": "Green Mount Cemetery is a historic cemetery in Baltimore, Maryland, United States."
+  },
+  {
+    "orig_idx": 1574,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1574,
+    "n_tokens": 15,
+    "gt_truncated": "Ambatondrakalavao is a town and commune in Madagascar."
+  },
+  {
+    "orig_idx": 1577,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1577,
+    "n_tokens": 15,
+    "gt_truncated": "\"Tough\" is a song by Scottish singer-songwriter Lewis Capaldi."
+  },
+  {
+    "orig_idx": 1588,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1588,
+    "n_tokens": 15,
+    "gt_truncated": "Lamprologini is a tribe of African cichlid fishes."
+  },
+  {
+    "orig_idx": 1615,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1615,
+    "n_tokens": 14,
+    "gt_truncated": "Richard X. Heyman is an American singer-songwriter and musician."
+  },
+  {
+    "orig_idx": 1626,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1626,
+    "n_tokens": 14,
+    "gt_truncated": "Stockholm City Station is a railway station in central Stockholm, Sweden."
+  },
+  {
+    "orig_idx": 1646,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1646,
+    "n_tokens": 14,
+    "gt_truncated": "The braided rug was a staple in early, Colonial American culture."
+  },
+  {
+    "orig_idx": 1696,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1696,
+    "n_tokens": 15,
+    "gt_truncated": "Garmisch Olympia Stadium is an arena in Garmisch, Germany."
+  },
+  {
+    "orig_idx": 1703,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1703,
+    "n_tokens": 14,
+    "gt_truncated": "The U.S. Highways in Massachusetts comprise eight current U.S."
+  },
+  {
+    "orig_idx": 1717,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1717,
+    "n_tokens": 16,
+    "gt_truncated": "Children is an early play by American playwright A. R. Gurney."
+  },
+  {
+    "orig_idx": 1723,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1723,
+    "n_tokens": 14,
+    "gt_truncated": "Virgo I is an extremely faint satellite galaxy of the Milky Way."
+  },
+  {
+    "orig_idx": 1728,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1728,
+    "n_tokens": 14,
+    "gt_truncated": "Bircham is a civil parish in the English county of Norfolk."
+  },
+  {
+    "orig_idx": 1777,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1777,
+    "n_tokens": 16,
+    "gt_truncated": "was Japanese Consul in Great Britain from 1874 to 1879."
+  },
+  {
+    "orig_idx": 1778,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1778,
+    "n_tokens": 14,
+    "gt_truncated": "Christy Goldsmith Romero is an American lawyer and federal government official."
+  },
+  {
+    "orig_idx": 1794,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1794,
+    "n_tokens": 15,
+    "gt_truncated": "Beautiful Game Studios is a British video game developer based in London, England."
+  },
+  {
+    "orig_idx": 1797,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1797,
+    "n_tokens": 16,
+    "gt_truncated": "Sri Venkateswara Public School (also known as S.V."
+  },
+  {
+    "orig_idx": 1830,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1830,
+    "n_tokens": 16,
+    "gt_truncated": "Pierre Desrochers is a city councillor in Montreal, Quebec, Canada."
+  },
+  {
+    "orig_idx": 1838,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1838,
+    "n_tokens": 15,
+    "gt_truncated": "For the hurling equivalent, see Meath Senior Hurling Championship."
+  },
+  {
+    "orig_idx": 1855,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1855,
+    "n_tokens": 14,
+    "gt_truncated": "John Belton is a Professor of English and Film at Rutgers University."
+  },
+  {
+    "orig_idx": 1862,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1862,
+    "n_tokens": 16,
+    "gt_truncated": "Streptococcus lactarius is a species of Streptococcus."
+  },
+  {
+    "orig_idx": 1869,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1869,
+    "n_tokens": 15,
+    "gt_truncated": "This Misfit Generation is the third extended play from Social Club Misfits."
+  },
+  {
+    "orig_idx": 1877,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1877,
+    "n_tokens": 15,
+    "gt_truncated": "Weaves is the debut extended play of Canadian indie pop group Weaves."
+  },
+  {
+    "orig_idx": 1884,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1884,
+    "n_tokens": 15,
+    "gt_truncated": "The India Habitat Centre is a multipurpose building in New Delhi, India."
+  },
+  {
+    "orig_idx": 1911,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1911,
+    "n_tokens": 15,
+    "gt_truncated": "Daher, or DAHER, is a French industrial conglomerate."
+  },
+  {
+    "orig_idx": 1962,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1962,
+    "n_tokens": 15,
+    "gt_truncated": "Melatonin Magik is the ninth studio album by rap artist Canibus."
+  },
+  {
+    "orig_idx": 1973,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1973,
+    "n_tokens": 14,
+    "gt_truncated": "Borgolombardo railway station is a railway station in Italy."
+  },
+  {
+    "orig_idx": 1976,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1976,
+    "n_tokens": 16,
+    "gt_truncated": "François Marie Suzanne (1750 – unknown) was a French sculptor."
+  },
+  {
+    "orig_idx": 1998,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 1998,
+    "n_tokens": 16,
+    "gt_truncated": "A World Between is a novel by Norman Spinrad published in 1979."
+  },
+  {
+    "orig_idx": 2002,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2002,
+    "n_tokens": 15,
+    "gt_truncated": "Lucyna trifida is a moth in the family Depressariidae."
+  },
+  {
+    "orig_idx": 2047,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2047,
+    "n_tokens": 16,
+    "gt_truncated": "Yangju () is a city in Gyeonggi Province, South Korea."
+  },
+  {
+    "orig_idx": 2052,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2052,
+    "n_tokens": 14,
+    "gt_truncated": "The following lists events that happened during 2006 in Botswana."
+  },
+  {
+    "orig_idx": 2063,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2063,
+    "n_tokens": 14,
+    "gt_truncated": "This is a list of notable people from Dubai, United Arab Emirates."
+  },
+  {
+    "orig_idx": 2083,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2083,
+    "n_tokens": 16,
+    "gt_truncated": "Gary Auerbach is an American television and film writer, director and producer."
+  },
+  {
+    "orig_idx": 2106,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2106,
+    "n_tokens": 15,
+    "gt_truncated": "The River Hor is a short river in the county of Norfolk, England."
+  },
+  {
+    "orig_idx": 2140,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2140,
+    "n_tokens": 14,
+    "gt_truncated": "Vandeweghe or Vande Weghe is a surname."
+  },
+  {
+    "orig_idx": 2144,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2144,
+    "n_tokens": 16,
+    "gt_truncated": "David Potts (1926–2012) was an Australian documentary photographer."
+  },
+  {
+    "orig_idx": 2182,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2182,
+    "n_tokens": 15,
+    "gt_truncated": "David Coleman (1926–2013) was a British sports commentator."
+  },
+  {
+    "orig_idx": 2228,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2228,
+    "n_tokens": 16,
+    "gt_truncated": "CSK ZSU Stadium () is a multi-use stadium in Kiev, Ukraine."
+  },
+  {
+    "orig_idx": 2239,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2239,
+    "n_tokens": 15,
+    "gt_truncated": "Flakstadelva is a river in Innlandet, Norway."
+  },
+  {
+    "orig_idx": 2241,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2241,
+    "n_tokens": 16,
+    "gt_truncated": "Gad is an extinct town in Nicholas County, West Virginia, United States."
+  },
+  {
+    "orig_idx": 2245,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2245,
+    "n_tokens": 15,
+    "gt_truncated": "Létanne is a commune in the Ardennes department in northern France."
+  },
+  {
+    "orig_idx": 2305,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2305,
+    "n_tokens": 14,
+    "gt_truncated": "In Greek mythology, Pero  () was a princess of Pylos."
+  },
+  {
+    "orig_idx": 2314,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2314,
+    "n_tokens": 15,
+    "gt_truncated": "Puya hromadnikii is a species of the genus Puya."
+  },
+  {
+    "orig_idx": 2347,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2347,
+    "n_tokens": 15,
+    "gt_truncated": "The Crowcamp Hills are a mountain range in Harney County, Oregon."
+  },
+  {
+    "orig_idx": 2376,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2376,
+    "n_tokens": 16,
+    "gt_truncated": "The Socavão River is a river of Sergipe state in northeastern Brazil."
+  },
+  {
+    "orig_idx": 2389,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2389,
+    "n_tokens": 15,
+    "gt_truncated": "The Tennis Challenger Hamburg is a professional tennis tournament played on indoor hard courts."
+  },
+  {
+    "orig_idx": 2400,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2400,
+    "n_tokens": 14,
+    "gt_truncated": "Bonaccordite is a rare mineral discovered in 1974."
+  },
+  {
+    "orig_idx": 2413,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2413,
+    "n_tokens": 15,
+    "gt_truncated": "Simmons Lake is a lake in the U.S. state of Washington."
+  },
+  {
+    "orig_idx": 2414,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2414,
+    "n_tokens": 16,
+    "gt_truncated": "Quebec Route 191 is a provincial highway in the Canadian province of Quebec."
+  },
+  {
+    "orig_idx": 2415,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2415,
+    "n_tokens": 16,
+    "gt_truncated": "Falconridge is a residential neighbourhood in the northeast quadrant of Calgary, Alberta."
+  },
+  {
+    "orig_idx": 2442,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2442,
+    "n_tokens": 14,
+    "gt_truncated": "Merodontis is a fungal genus in the order Helotiales."
+  },
+  {
+    "orig_idx": 2446,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2446,
+    "n_tokens": 16,
+    "gt_truncated": "Martin Troen Moe is an American executive serving as president of Vox Media."
+  },
+  {
+    "orig_idx": 2451,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2451,
+    "n_tokens": 14,
+    "gt_truncated": "Atriplex valdesii is a plant species endemic to Mexico."
+  },
+  {
+    "orig_idx": 2459,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2459,
+    "n_tokens": 15,
+    "gt_truncated": "West Central Franklin is an unorganized territory located in Franklin County, Maine."
+  },
+  {
+    "orig_idx": 2479,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2479,
+    "n_tokens": 15,
+    "gt_truncated": "TagPay is a digital banking platform created by the French company TagPay."
+  },
+  {
+    "orig_idx": 2510,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2510,
+    "n_tokens": 16,
+    "gt_truncated": "Gary Gilbert (born 1965) is an American businessman and film producer."
+  },
+  {
+    "orig_idx": 2525,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2525,
+    "n_tokens": 15,
+    "gt_truncated": "Parisine is a typeface created by Jean-François Porchez."
+  },
+  {
+    "orig_idx": 2529,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2529,
+    "n_tokens": 16,
+    "gt_truncated": "Free Media is a media publishing company based in Casablanca, Morocco."
+  },
+  {
+    "orig_idx": 2555,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2555,
+    "n_tokens": 16,
+    "gt_truncated": "Kano River Project is a modern integrated agricultural land use development in Northern Nigeria."
+  },
+  {
+    "orig_idx": 2575,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2575,
+    "n_tokens": 14,
+    "gt_truncated": "Bakoa is a genus of plants in the family Araceae."
+  },
+  {
+    "orig_idx": 2595,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2595,
+    "n_tokens": 15,
+    "gt_truncated": "Mike Slattery is a Democratic former member of the Kansas House of Representatives."
+  },
+  {
+    "orig_idx": 2608,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2608,
+    "n_tokens": 16,
+    "gt_truncated": "Jamaica–Mexico relations refers to the diplomatic relations between Jamaica and Mexico."
+  },
+  {
+    "orig_idx": 2621,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2621,
+    "n_tokens": 16,
+    "gt_truncated": "Manasia is a commune located in Ialomița County, Romania."
+  },
+  {
+    "orig_idx": 2649,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2649,
+    "n_tokens": 15,
+    "gt_truncated": "Welsh English () comprises the dialects of English spoken by Welsh people."
+  },
+  {
+    "orig_idx": 2658,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2658,
+    "n_tokens": 15,
+    "gt_truncated": "Macrocybe spectabilis is a species of mushroom-forming fungus."
+  },
+  {
+    "orig_idx": 2683,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2683,
+    "n_tokens": 14,
+    "gt_truncated": "Edwin A. Buckham is a former congressional staffer and lobbyist."
+  },
+  {
+    "orig_idx": 2686,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2686,
+    "n_tokens": 14,
+    "gt_truncated": "Events from the year 2004 in Taiwan, Republic of China."
+  },
+  {
+    "orig_idx": 2694,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2694,
+    "n_tokens": 14,
+    "gt_truncated": "is a Japanese football player currently playing for Zweigen Kanazawa."
+  },
+  {
+    "orig_idx": 2733,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2733,
+    "n_tokens": 14,
+    "gt_truncated": "Sport Union Dives-Cabourg is a French association football club."
+  },
+  {
+    "orig_idx": 2735,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2735,
+    "n_tokens": 14,
+    "gt_truncated": "The Federal Party () was a short-lived political party in Puerto Rico."
+  },
+  {
+    "orig_idx": 2743,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2743,
+    "n_tokens": 15,
+    "gt_truncated": "Harriet Zeitlin (born 1929) is an American artist."
+  },
+  {
+    "orig_idx": 2768,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2768,
+    "n_tokens": 15,
+    "gt_truncated": "Losdorp () is a town in the Dutch province of Groningen."
+  },
+  {
+    "orig_idx": 2771,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2771,
+    "n_tokens": 14,
+    "gt_truncated": "A moving magnet actuator is a type of electromagnetic linear actuator."
+  },
+  {
+    "orig_idx": 2772,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2772,
+    "n_tokens": 14,
+    "gt_truncated": "Wayne Clifford (born 1944) is a Canadian poet."
+  },
+  {
+    "orig_idx": 2785,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2785,
+    "n_tokens": 14,
+    "gt_truncated": "Pellérd is a village in Baranya county, Hungary."
+  },
+  {
+    "orig_idx": 2793,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2793,
+    "n_tokens": 16,
+    "gt_truncated": "Alphaea is a genus of tiger moths in the family Erebidae."
+  },
+  {
+    "orig_idx": 2829,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2829,
+    "n_tokens": 16,
+    "gt_truncated": "Sheffield City Council elections took place on Thursday 1 May 2008."
+  },
+  {
+    "orig_idx": 2875,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2875,
+    "n_tokens": 16,
+    "gt_truncated": "Yang Hao (; born 3 February 1998) is a Chinese diver."
+  },
+  {
+    "orig_idx": 2901,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2901,
+    "n_tokens": 15,
+    "gt_truncated": "Sugar Valley is a valley in Clinton County, Pennsylvania, U.S.A."
+  },
+  {
+    "orig_idx": 2934,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2934,
+    "n_tokens": 14,
+    "gt_truncated": "Red Zebra is a Belgian post-punk group from Bruges."
+  },
+  {
+    "orig_idx": 2953,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2953,
+    "n_tokens": 16,
+    "gt_truncated": "Cankuzo Province is one of the 18 provinces of Burundi."
+  },
+  {
+    "orig_idx": 2975,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2975,
+    "n_tokens": 16,
+    "gt_truncated": "This is a list of schools in Sheffield in the English county of South Yorkshire."
+  },
+  {
+    "orig_idx": 2984,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2984,
+    "n_tokens": 16,
+    "gt_truncated": "Veba Vs Grand Central is a compilation album of various Grand Central Records artists."
+  },
+  {
+    "orig_idx": 2987,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2987,
+    "n_tokens": 16,
+    "gt_truncated": "The Post Hill Historic District encompasses the oldest settled area of New London, Connecticut."
+  },
+  {
+    "orig_idx": 2988,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2988,
+    "n_tokens": 15,
+    "gt_truncated": "General elections were held in Trinidad and Tobago in early 1933."
+  },
+  {
+    "orig_idx": 2993,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 2993,
+    "n_tokens": 15,
+    "gt_truncated": "Phorward is a studio album by the Scottish band The Shamen."
+  },
+  {
+    "orig_idx": 3014,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3014,
+    "n_tokens": 16,
+    "gt_truncated": "Las Palmas is a village and municipality in Chaco Province in northern Argentina."
+  },
+  {
+    "orig_idx": 3053,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3053,
+    "n_tokens": 15,
+    "gt_truncated": "Burkholderia glumae is a Gram-negative soil bacterium."
+  },
+  {
+    "orig_idx": 3091,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3091,
+    "n_tokens": 16,
+    "gt_truncated": "Patrick James Mulligan (born ) was a rugby union player who represented Australia."
+  },
+  {
+    "orig_idx": 3111,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3111,
+    "n_tokens": 14,
+    "gt_truncated": "The Newberry Consort is an early music ensemble from Chicago, Illinois."
+  },
+  {
+    "orig_idx": 3133,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3133,
+    "n_tokens": 15,
+    "gt_truncated": "Mornington Cemetery is a cemetery serving the Mornington Peninsula area of Melbourne."
+  },
+  {
+    "orig_idx": 3172,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3172,
+    "n_tokens": 14,
+    "gt_truncated": "Frogner is a village in Sørum municipality, Norway."
+  },
+  {
+    "orig_idx": 3186,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3186,
+    "n_tokens": 15,
+    "gt_truncated": "Flux is the fourth solo album from Black Crowes guitarist Rich Robinson."
+  },
+  {
+    "orig_idx": 3191,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3191,
+    "n_tokens": 14,
+    "gt_truncated": "Sanskritirani Desai is Gujarati poet from India."
+  },
+  {
+    "orig_idx": 3193,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3193,
+    "n_tokens": 15,
+    "gt_truncated": "So Cool is the debut studio album by South Korean girl group Sistar."
+  },
+  {
+    "orig_idx": 3213,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3213,
+    "n_tokens": 15,
+    "gt_truncated": "This is a listing of some of the works of Jean Fréour."
+  },
+  {
+    "orig_idx": 3230,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3230,
+    "n_tokens": 16,
+    "gt_truncated": "Hippotion brunnea is a moth of the family Sphingidae."
+  },
+  {
+    "orig_idx": 3250,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3250,
+    "n_tokens": 15,
+    "gt_truncated": "NAK is the negative-acknowledge character used in computers and telecommunications."
+  },
+  {
+    "orig_idx": 3266,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3266,
+    "n_tokens": 15,
+    "gt_truncated": "Cyathopus is a genus of Himalayan plants in the grass family."
+  },
+  {
+    "orig_idx": 3271,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3271,
+    "n_tokens": 14,
+    "gt_truncated": "is a Catholic Japanese women's university in Chōfu, Tokyo."
+  },
+  {
+    "orig_idx": 3282,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3282,
+    "n_tokens": 15,
+    "gt_truncated": "Bollywood Times was a Canadian Hindi language specialty channel owned by Channel Zero."
+  },
+  {
+    "orig_idx": 3287,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3287,
+    "n_tokens": 15,
+    "gt_truncated": "If There's a Hell Below is the sixth studio album by Black Milk."
+  },
+  {
+    "orig_idx": 3291,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3291,
+    "n_tokens": 15,
+    "gt_truncated": "The Little Androscoggin River is a  river in Maine."
+  },
+  {
+    "orig_idx": 3306,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3306,
+    "n_tokens": 16,
+    "gt_truncated": "The People's Park is the largest public park in Waterford city, Ireland."
+  },
+  {
+    "orig_idx": 3313,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3313,
+    "n_tokens": 16,
+    "gt_truncated": "Petro Express was a multi-store convenience chain based in Charlotte, North Carolina."
+  },
+  {
+    "orig_idx": 3336,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3336,
+    "n_tokens": 14,
+    "gt_truncated": "The Umgeni was a sailing ship of the Rennie line."
+  },
+  {
+    "orig_idx": 3377,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3377,
+    "n_tokens": 16,
+    "gt_truncated": "Riverside is a historic house museum in Hamilton, Montana, U.S.."
+  },
+  {
+    "orig_idx": 3378,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3378,
+    "n_tokens": 14,
+    "gt_truncated": "Saxån is a river in Skåne County in Sweden."
+  },
+  {
+    "orig_idx": 3401,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3401,
+    "n_tokens": 15,
+    "gt_truncated": "Cercospora liquidambaris is a fungal plant pathogen."
+  },
+  {
+    "orig_idx": 3404,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3404,
+    "n_tokens": 16,
+    "gt_truncated": "Hyōdō (written: 兵藤) is a Japanese surname."
+  },
+  {
+    "orig_idx": 3433,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3433,
+    "n_tokens": 14,
+    "gt_truncated": "Tokachi Dam is a dam in Hokkaidō, Japan."
+  },
+  {
+    "orig_idx": 3494,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3494,
+    "n_tokens": 16,
+    "gt_truncated": "Pou Sothirak  is a Cambodian academic and former politician."
+  },
+  {
+    "orig_idx": 3526,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3526,
+    "n_tokens": 16,
+    "gt_truncated": "Distantalna splendida is a cicada species from Southeast Asia."
+  },
+  {
+    "orig_idx": 3549,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3549,
+    "n_tokens": 16,
+    "gt_truncated": "General elections were held in Vanuatu on 30 November 1987."
+  },
+  {
+    "orig_idx": 3579,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3579,
+    "n_tokens": 15,
+    "gt_truncated": "This is a list of series released by TVB in 2005."
+  },
+  {
+    "orig_idx": 3600,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3600,
+    "n_tokens": 15,
+    "gt_truncated": "The  is a group of Japanese dialects spoken in central San'in."
+  },
+  {
+    "orig_idx": 3633,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3633,
+    "n_tokens": 16,
+    "gt_truncated": "The Meyerhofer Cobblestone House is located in Lake Geneva, Wisconsin."
+  },
+  {
+    "orig_idx": 3641,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3641,
+    "n_tokens": 14,
+    "gt_truncated": "Carla Georges, known as simply Carla, is a French singer."
+  },
+  {
+    "orig_idx": 3649,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3649,
+    "n_tokens": 16,
+    "gt_truncated": "is a Japanese historical book written by Kitabatake Chikafusa."
+  },
+  {
+    "orig_idx": 3655,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3655,
+    "n_tokens": 16,
+    "gt_truncated": "Model Town is a tehsil located in Lahore District, Punjab, Pakistan."
+  },
+  {
+    "orig_idx": 3675,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3675,
+    "n_tokens": 15,
+    "gt_truncated": "Cuba competed at the 1924 Summer Olympics in Paris, France."
+  },
+  {
+    "orig_idx": 3678,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3678,
+    "n_tokens": 14,
+    "gt_truncated": "BCP-1 cells are a clonal lymphoma cell line."
+  },
+  {
+    "orig_idx": 3683,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3683,
+    "n_tokens": 15,
+    "gt_truncated": "The Special Constables Act 1923 (13 and 14 Geo."
+  },
+  {
+    "orig_idx": 3695,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3695,
+    "n_tokens": 16,
+    "gt_truncated": "Out of Sight is a 1996 crime fiction novel by Elmore Leonard."
+  },
+  {
+    "orig_idx": 3710,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3710,
+    "n_tokens": 14,
+    "gt_truncated": "Rolf Gustav Lundberg  is a Norwegian handball player."
+  },
+  {
+    "orig_idx": 3737,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3737,
+    "n_tokens": 16,
+    "gt_truncated": "Liz Williams (born 1965) is a British science fiction writer."
+  },
+  {
+    "orig_idx": 3750,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3750,
+    "n_tokens": 15,
+    "gt_truncated": "This article presents lists of the literary events and publications in 1551."
+  },
+  {
+    "orig_idx": 3780,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3780,
+    "n_tokens": 14,
+    "gt_truncated": "Taco Bus restaurants serve Mexican food in the Tampa, Florida area."
+  },
+  {
+    "orig_idx": 3785,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3785,
+    "n_tokens": 14,
+    "gt_truncated": "Zahra Kamalfar is an Iranian refugee living in Canada."
+  },
+  {
+    "orig_idx": 3793,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3793,
+    "n_tokens": 14,
+    "gt_truncated": "Paul Salveson is a six-time Grammy Award winning audio engineer."
+  },
+  {
+    "orig_idx": 3796,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3796,
+    "n_tokens": 15,
+    "gt_truncated": "NGC 2477 is an open cluster in the constellation Puppis."
+  },
+  {
+    "orig_idx": 3818,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3818,
+    "n_tokens": 16,
+    "gt_truncated": "V. G. Arun () is a judge of the Kerala High Court."
+  },
+  {
+    "orig_idx": 3830,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3830,
+    "n_tokens": 15,
+    "gt_truncated": "Dan Wood is a British broadcaster, DJ, podcaster and video producer."
+  },
+  {
+    "orig_idx": 3831,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3831,
+    "n_tokens": 15,
+    "gt_truncated": "This is a list of mayors of the city of Bern, Switzerland."
+  },
+  {
+    "orig_idx": 3835,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3835,
+    "n_tokens": 15,
+    "gt_truncated": "Louis Polewczynski was a member of the Wisconsin State Assembly."
+  },
+  {
+    "orig_idx": 3847,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3847,
+    "n_tokens": 14,
+    "gt_truncated": "\"My Turn\" is a song performed by Swedish singer John Lundvik."
+  },
+  {
+    "orig_idx": 3852,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3852,
+    "n_tokens": 15,
+    "gt_truncated": "23 fencers from 7 nations competed in the amateur sabre competition."
+  },
+  {
+    "orig_idx": 3863,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3863,
+    "n_tokens": 15,
+    "gt_truncated": "Kirstin Marcon is a New Zealand screenwriter and film director."
+  },
+  {
+    "orig_idx": 3885,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3885,
+    "n_tokens": 16,
+    "gt_truncated": "Arifur Rahman Rabin is a Bangladeshi cricketer."
+  },
+  {
+    "orig_idx": 3904,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3904,
+    "n_tokens": 16,
+    "gt_truncated": "St. Leo is a town in Pasco County, Florida, United States."
+  },
+  {
+    "orig_idx": 3931,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3931,
+    "n_tokens": 15,
+    "gt_truncated": "In the Junkyard is the debut EP from The Potbelleez."
+  },
+  {
+    "orig_idx": 3945,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3945,
+    "n_tokens": 14,
+    "gt_truncated": "Grace McCleen (born 1981) is a British novelist."
+  },
+  {
+    "orig_idx": 3955,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3955,
+    "n_tokens": 14,
+    "gt_truncated": "The UCLA Bruins women's basketball program was established in 1974."
+  },
+  {
+    "orig_idx": 3976,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 3976,
+    "n_tokens": 15,
+    "gt_truncated": "Barbières is a commune in the Drôme department in southeastern France."
+  },
+  {
+    "orig_idx": 4009,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4009,
+    "n_tokens": 14,
+    "gt_truncated": "Pakali Ba is a riverside settlement in the Gambia."
+  },
+  {
+    "orig_idx": 4016,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4016,
+    "n_tokens": 16,
+    "gt_truncated": "Servage GmbH is a German web hosting provider headquartered in Flensburg, Germany."
+  },
+  {
+    "orig_idx": 4032,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4032,
+    "n_tokens": 15,
+    "gt_truncated": "The Lebanon Express is the weekly newspaper of Lebanon, Oregon, United States."
+  },
+  {
+    "orig_idx": 4038,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4038,
+    "n_tokens": 16,
+    "gt_truncated": "For the university in Kansas City, Missouri, USA, see Rockhurst University."
+  },
+  {
+    "orig_idx": 4042,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4042,
+    "n_tokens": 15,
+    "gt_truncated": "Sucre Municipality is a municipality in Falcón State, Venezuela."
+  },
+  {
+    "orig_idx": 4131,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4131,
+    "n_tokens": 15,
+    "gt_truncated": "Cardiovirus A is a member of the Picornaviridae family."
+  },
+  {
+    "orig_idx": 4147,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4147,
+    "n_tokens": 15,
+    "gt_truncated": "The Igan River () is a river in Sarawak, Malaysia."
+  },
+  {
+    "orig_idx": 4162,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4162,
+    "n_tokens": 15,
+    "gt_truncated": "Stone County is a county located in the U.S. state of Mississippi."
+  },
+  {
+    "orig_idx": 4163,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4163,
+    "n_tokens": 16,
+    "gt_truncated": "Rodolphe Gabriel Randriamanantena is a Malagasy politician."
+  },
+  {
+    "orig_idx": 4187,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4187,
+    "n_tokens": 16,
+    "gt_truncated": "DZAC-TV is a commercial television station owned by ABS-CBN Corporation."
+  },
+  {
+    "orig_idx": 4197,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4197,
+    "n_tokens": 15,
+    "gt_truncated": "Sisir Mancha is an auditorium located in A.J.C."
+  },
+  {
+    "orig_idx": 4199,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4199,
+    "n_tokens": 16,
+    "gt_truncated": "The Pirapó River is a river of Paraná state in southern Brazil."
+  },
+  {
+    "orig_idx": 4203,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4203,
+    "n_tokens": 14,
+    "gt_truncated": "The Cascade River is a  river in northeastern Minnesota, United States."
+  },
+  {
+    "orig_idx": 4209,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4209,
+    "n_tokens": 14,
+    "gt_truncated": "Nepal was hit by serious flooding during May 2012."
+  },
+  {
+    "orig_idx": 4267,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4267,
+    "n_tokens": 16,
+    "gt_truncated": "Osgoods are an American rock band with its roots in Tucson, Arizona."
+  },
+  {
+    "orig_idx": 4276,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4276,
+    "n_tokens": 14,
+    "gt_truncated": "The State of New Mexico has a total of fifteen micropolitan areas."
+  },
+  {
+    "orig_idx": 4285,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4285,
+    "n_tokens": 15,
+    "gt_truncated": "Vega is a town district in Haninge Municipality, in Sweden."
+  },
+  {
+    "orig_idx": 4311,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4311,
+    "n_tokens": 14,
+    "gt_truncated": "Saint Rose is a village in Clinton County, Illinois, United States."
+  },
+  {
+    "orig_idx": 4315,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4315,
+    "n_tokens": 14,
+    "gt_truncated": "The following is a list of mobile games developed and published by Sega."
+  },
+  {
+    "orig_idx": 4333,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4333,
+    "n_tokens": 14,
+    "gt_truncated": "Strandbuen is a local newspaper published in Strand, Norway."
+  },
+  {
+    "orig_idx": 4353,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4353,
+    "n_tokens": 15,
+    "gt_truncated": "Thomas de Ashton (fl. 1346), was an English warrior."
+  },
+  {
+    "orig_idx": 4362,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4362,
+    "n_tokens": 15,
+    "gt_truncated": "Most of Sriwijaya Air destinations are domestic. It has multiple routes."
+  },
+  {
+    "orig_idx": 4367,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4367,
+    "n_tokens": 15,
+    "gt_truncated": "HD 169405 is a star in the constellation Telescopium."
+  },
+  {
+    "orig_idx": 4369,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4369,
+    "n_tokens": 16,
+    "gt_truncated": "Lot 8 is a township in Prince County, Prince Edward Island, Canada."
+  },
+  {
+    "orig_idx": 4402,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4402,
+    "n_tokens": 16,
+    "gt_truncated": "Lake Weir is a fresh-water lake located in southern Marion County, Florida."
+  },
+  {
+    "orig_idx": 4408,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4408,
+    "n_tokens": 15,
+    "gt_truncated": "Machurucuto is a coastal town in Miranda State, Venezuela."
+  },
+  {
+    "orig_idx": 4463,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4463,
+    "n_tokens": 15,
+    "gt_truncated": "The constellation Reticulum is small and faint in Earth's southern sky."
+  },
+  {
+    "orig_idx": 4486,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4486,
+    "n_tokens": 15,
+    "gt_truncated": "Calgary South provincial electoral district was an electoral district in Alberta, Canada."
+  },
+  {
+    "orig_idx": 4492,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4492,
+    "n_tokens": 15,
+    "gt_truncated": "Echo is the tenth studio album by Tom Petty and the Heartbreakers."
+  },
+  {
+    "orig_idx": 4504,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4504,
+    "n_tokens": 15,
+    "gt_truncated": "Montlivaltiidae is an extinct family of stony corals."
+  },
+  {
+    "orig_idx": 4509,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4509,
+    "n_tokens": 16,
+    "gt_truncated": "Jiangwan () is a station on Line 10 of the Shanghai Metro."
+  },
+  {
+    "orig_idx": 4533,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4533,
+    "n_tokens": 15,
+    "gt_truncated": "Dôme des Nants is a mountain of Savoie, France."
+  },
+  {
+    "orig_idx": 4534,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4534,
+    "n_tokens": 15,
+    "gt_truncated": "Come Back, All Is Forgiven (German: Kehre zurück!"
+  },
+  {
+    "orig_idx": 4569,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4569,
+    "n_tokens": 15,
+    "gt_truncated": "The Grafton Centre is a covered shopping centre in Cambridge, England."
+  },
+  {
+    "orig_idx": 4593,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4593,
+    "n_tokens": 15,
+    "gt_truncated": "This is the alphabetic list of the upper class noble houses of Georgia."
+  },
+  {
+    "orig_idx": 4637,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4637,
+    "n_tokens": 15,
+    "gt_truncated": "Three Rivers East is a suburb of Vereeniging, Gauteng."
+  },
+  {
+    "orig_idx": 4655,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4655,
+    "n_tokens": 15,
+    "gt_truncated": "PokerStars is an online poker cardroom owned by The Stars Group."
+  },
+  {
+    "orig_idx": 4702,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4702,
+    "n_tokens": 16,
+    "gt_truncated": "Henry Card (1779–1844) was an English cleric and writer."
+  },
+  {
+    "orig_idx": 4710,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4710,
+    "n_tokens": 15,
+    "gt_truncated": "\"One Step Too Far\" is a song by British electronic group Faithless."
+  },
+  {
+    "orig_idx": 4724,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4724,
+    "n_tokens": 16,
+    "gt_truncated": "Coleophora frustrata is a moth of the family Coleophoridae."
+  },
+  {
+    "orig_idx": 4759,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4759,
+    "n_tokens": 15,
+    "gt_truncated": "Ladies' Home Journal is an American magazine published by the Meredith Corporation."
+  },
+  {
+    "orig_idx": 4761,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4761,
+    "n_tokens": 14,
+    "gt_truncated": "Gha is the fourth consonant of Indic abugidas."
+  },
+  {
+    "orig_idx": 4811,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4811,
+    "n_tokens": 14,
+    "gt_truncated": "Devon Farm is a historic farm in Nashville, Tennessee, USA."
+  },
+  {
+    "orig_idx": 4842,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4842,
+    "n_tokens": 15,
+    "gt_truncated": "General Maynard is a municipality located in the Brazilian state of Sergipe."
+  },
+  {
+    "orig_idx": 4893,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4893,
+    "n_tokens": 15,
+    "gt_truncated": "is a Japanese football player, who plays for Belgian club K.S.C."
+  },
+  {
+    "orig_idx": 4895,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4895,
+    "n_tokens": 14,
+    "gt_truncated": "Handbook of the New Zealand Flora (abbreviated Handb."
+  },
+  {
+    "orig_idx": 4903,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4903,
+    "n_tokens": 14,
+    "gt_truncated": "Vasileios Xylinakis was a Greek sports shooter."
+  },
+  {
+    "orig_idx": 4914,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4914,
+    "n_tokens": 16,
+    "gt_truncated": "George Washington Carver High School is a public high school in Montgomery, Alabama."
+  },
+  {
+    "orig_idx": 4918,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4918,
+    "n_tokens": 14,
+    "gt_truncated": "Langport East was a railway station situated in Langport in Somerset."
+  },
+  {
+    "orig_idx": 4935,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4935,
+    "n_tokens": 14,
+    "gt_truncated": "Mestni stadion is a name for many stadiums in Slovenia."
+  },
+  {
+    "orig_idx": 4953,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4953,
+    "n_tokens": 16,
+    "gt_truncated": "Alan Hardy is an Australian writer and producer, who has worked extensively in television."
+  },
+  {
+    "orig_idx": 4997,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 4997,
+    "n_tokens": 15,
+    "gt_truncated": "The National Parks is an American folk/pop band from Provo, Utah."
+  },
+  {
+    "orig_idx": 5019,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5019,
+    "n_tokens": 15,
+    "gt_truncated": "The Polaris Slingshot is a three-wheeled motor vehicle."
+  },
+  {
+    "orig_idx": 5065,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5065,
+    "n_tokens": 16,
+    "gt_truncated": "Richard Slotkin (born 1942) is a cultural critic and historian."
+  },
+  {
+    "orig_idx": 5084,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5084,
+    "n_tokens": 14,
+    "gt_truncated": "Ashland is a city in Saunders County, Nebraska, United States."
+  },
+  {
+    "orig_idx": 5134,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5134,
+    "n_tokens": 15,
+    "gt_truncated": "Szentesi Vízilabda Klub, a.k.a."
+  },
+  {
+    "orig_idx": 5161,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5161,
+    "n_tokens": 14,
+    "gt_truncated": "Allerbach is a river of Saxony-Anhalt, Germany."
+  },
+  {
+    "orig_idx": 5167,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5167,
+    "n_tokens": 16,
+    "gt_truncated": "2014 Czech Lion Awards ceremony was held on 14 January 2015."
+  },
+  {
+    "orig_idx": 5176,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5176,
+    "n_tokens": 16,
+    "gt_truncated": "Pool Edge is a sports video game released in 2002 by NDcube."
+  },
+  {
+    "orig_idx": 5193,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5193,
+    "n_tokens": 16,
+    "gt_truncated": "Te Vakai is a Tokelauan newsletter published in the English language."
+  },
+  {
+    "orig_idx": 5201,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5201,
+    "n_tokens": 15,
+    "gt_truncated": "Hoops is an upcoming American animated sitcom created by Ben Hoffman for Netflix."
+  },
+  {
+    "orig_idx": 5222,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5222,
+    "n_tokens": 16,
+    "gt_truncated": "Rovni is a village in the municipality of Valjevo, Serbia."
+  },
+  {
+    "orig_idx": 5231,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5231,
+    "n_tokens": 16,
+    "gt_truncated": "Oonops procerus is a spider species found in France and Spain."
+  },
+  {
+    "orig_idx": 5249,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5249,
+    "n_tokens": 15,
+    "gt_truncated": "Reeseville is a village in Dodge County, Wisconsin, United States."
+  },
+  {
+    "orig_idx": 5278,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5278,
+    "n_tokens": 16,
+    "gt_truncated": "Water Sky Garden is a sculptural environment designed by artist Janet Echelman."
+  },
+  {
+    "orig_idx": 5320,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5320,
+    "n_tokens": 15,
+    "gt_truncated": "Écoche is a commune in the Loire department in central France."
+  },
+  {
+    "orig_idx": 5321,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5321,
+    "n_tokens": 14,
+    "gt_truncated": "Gibraltar BSN Life Berhad is a Malaysian life insurance company."
+  },
+  {
+    "orig_idx": 5330,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5330,
+    "n_tokens": 16,
+    "gt_truncated": "Nirenstein Nierenstein is a Yiddish and German-language surname."
+  },
+  {
+    "orig_idx": 5343,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5343,
+    "n_tokens": 16,
+    "gt_truncated": "La Sainte Union (LSU) in Southampton was a teacher training college."
+  },
+  {
+    "orig_idx": 5369,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5369,
+    "n_tokens": 14,
+    "gt_truncated": "McCorkindale or MacCorkindale is a surname."
+  },
+  {
+    "orig_idx": 5402,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5402,
+    "n_tokens": 16,
+    "gt_truncated": "Dulewala is a village in Bathinda district, Punjab, India."
+  },
+  {
+    "orig_idx": 5406,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5406,
+    "n_tokens": 14,
+    "gt_truncated": "Broze is a commune in the Tarn department in southern France."
+  },
+  {
+    "orig_idx": 5433,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5433,
+    "n_tokens": 14,
+    "gt_truncated": "Overtime is the amount of time someone works beyond normal working hours."
+  },
+  {
+    "orig_idx": 5436,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5436,
+    "n_tokens": 15,
+    "gt_truncated": "Tegaderm is a transparent medical dressing manufactured by 3M."
+  },
+  {
+    "orig_idx": 5439,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5439,
+    "n_tokens": 16,
+    "gt_truncated": "This is a list of shipwrecks located in or around North America."
+  },
+  {
+    "orig_idx": 5447,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5447,
+    "n_tokens": 16,
+    "gt_truncated": "Napier Township is a township in Bedford County, Pennsylvania, United States."
+  },
+  {
+    "orig_idx": 5452,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5452,
+    "n_tokens": 15,
+    "gt_truncated": "A sewing table or work table is a table or desk used for sewing."
+  },
+  {
+    "orig_idx": 5493,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5493,
+    "n_tokens": 15,
+    "gt_truncated": "Da Big Show is a Philippine television game show broadcast by GMA Network."
+  },
+  {
+    "orig_idx": 5507,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5507,
+    "n_tokens": 14,
+    "gt_truncated": "This is a list of pornographic film awards from around the world."
+  },
+  {
+    "orig_idx": 5512,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5512,
+    "n_tokens": 15,
+    "gt_truncated": "Obolon Arena is a football stadium in the city of Kiev, Ukraine."
+  },
+  {
+    "orig_idx": 5522,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5522,
+    "n_tokens": 16,
+    "gt_truncated": "Atomistix A/S was a software company developing tools for atomic scale modelling."
+  },
+  {
+    "orig_idx": 5536,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5536,
+    "n_tokens": 16,
+    "gt_truncated": "The following is a list of football stadiums in Estonia, ordered by seating capacity."
+  },
+  {
+    "orig_idx": 5547,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5547,
+    "n_tokens": 16,
+    "gt_truncated": "REBEL was a world champion chess program developed by Ed Schröder."
+  },
+  {
+    "orig_idx": 5551,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5551,
+    "n_tokens": 16,
+    "gt_truncated": "Congaree National Park is a  American national park in central South Carolina."
+  },
+  {
+    "orig_idx": 5562,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5562,
+    "n_tokens": 15,
+    "gt_truncated": "Baker County is a county in the U.S. state of Oregon."
+  },
+  {
+    "orig_idx": 5572,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5572,
+    "n_tokens": 16,
+    "gt_truncated": "Irish moths represent about 1,400 different types of moths."
+  },
+  {
+    "orig_idx": 5582,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5582,
+    "n_tokens": 14,
+    "gt_truncated": "The Social Democratic Front  () is the main opposition party of Cameroon."
+  },
+  {
+    "orig_idx": 5609,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5609,
+    "n_tokens": 14,
+    "gt_truncated": "Cypsiurus is a genus of the swift family of birds."
+  },
+  {
+    "orig_idx": 5625,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5625,
+    "n_tokens": 15,
+    "gt_truncated": "This is a survey of the postage stamps and postal history of Costa Rica."
+  },
+  {
+    "orig_idx": 5640,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5640,
+    "n_tokens": 16,
+    "gt_truncated": "Laurel Canyon Boulevard is a major street in the city of Los Angeles."
+  },
+  {
+    "orig_idx": 5643,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5643,
+    "n_tokens": 15,
+    "gt_truncated": "The following poll makes up the 1969 NCAA University Division baseball rankings."
+  },
+  {
+    "orig_idx": 5644,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5644,
+    "n_tokens": 15,
+    "gt_truncated": "The Madness of George III is a 1991 play by Alan Bennett."
+  },
+  {
+    "orig_idx": 5651,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5651,
+    "n_tokens": 16,
+    "gt_truncated": "Big Shark is an upcoming horror drama film directed and produced by Tommy Wiseau."
+  },
+  {
+    "orig_idx": 5670,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5670,
+    "n_tokens": 16,
+    "gt_truncated": "Wapserveen is a town in the Dutch province of Drenthe."
+  },
+  {
+    "orig_idx": 5672,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5672,
+    "n_tokens": 16,
+    "gt_truncated": "A Philosothon is an annual competition wherein students explore philosophical and ethical issues."
+  },
+  {
+    "orig_idx": 5673,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5673,
+    "n_tokens": 15,
+    "gt_truncated": "Yambo Records was a blues record label based in Chicago, Illinois."
+  },
+  {
+    "orig_idx": 5676,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5676,
+    "n_tokens": 15,
+    "gt_truncated": "Ride the Wild Surf is a 1964 American romantic drama film ."
+  },
+  {
+    "orig_idx": 5687,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5687,
+    "n_tokens": 16,
+    "gt_truncated": "Albinykus is a genus of alvarezsaurid dinosaur."
+  },
+  {
+    "orig_idx": 5716,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5716,
+    "n_tokens": 16,
+    "gt_truncated": "Milnor is a city in Sargent County, North Dakota, United States."
+  },
+  {
+    "orig_idx": 5725,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5725,
+    "n_tokens": 15,
+    "gt_truncated": "2019 Pulsar Sports Award is the biggest sporting award of Nepal."
+  },
+  {
+    "orig_idx": 5741,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5741,
+    "n_tokens": 16,
+    "gt_truncated": "CH-15 was a  of the Imperial Japanese Navy during World War II."
+  },
+  {
+    "orig_idx": 5794,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5794,
+    "n_tokens": 15,
+    "gt_truncated": "Suck Run is a stream in the U.S. state of Ohio."
+  },
+  {
+    "orig_idx": 5803,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5803,
+    "n_tokens": 16,
+    "gt_truncated": "Beatrice Boahemaa is a Ghanaian author of adult fiction novels."
+  },
+  {
+    "orig_idx": 5857,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5857,
+    "n_tokens": 16,
+    "gt_truncated": "Osminia is a genus of moths in the family Sesiidae."
+  },
+  {
+    "orig_idx": 5899,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5899,
+    "n_tokens": 14,
+    "gt_truncated": "Coenosia nivea is a species of house flies, etc."
+  },
+  {
+    "orig_idx": 5925,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5925,
+    "n_tokens": 15,
+    "gt_truncated": "1905 was the fifth year for the Detroit Tigers in the American League."
+  },
+  {
+    "orig_idx": 5943,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5943,
+    "n_tokens": 15,
+    "gt_truncated": "Kidepo Airport  is an airfield in Northern Region, Uganda."
+  },
+  {
+    "orig_idx": 5963,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5963,
+    "n_tokens": 14,
+    "gt_truncated": "is a private university in Okazaki, Aichi, Japan."
+  },
+  {
+    "orig_idx": 5980,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 5980,
+    "n_tokens": 14,
+    "gt_truncated": "Leptinotarsa is a genus of leaf beetles."
+  },
+  {
+    "orig_idx": 6017,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6017,
+    "n_tokens": 15,
+    "gt_truncated": "Kosair Charities is a nonprofit organization based in Louisville, Kentucky."
+  },
+  {
+    "orig_idx": 6022,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6022,
+    "n_tokens": 16,
+    "gt_truncated": "The Evangelical Lutheran Church in Southern Africa is a Lutheran church in South Africa."
+  },
+  {
+    "orig_idx": 6029,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6029,
+    "n_tokens": 16,
+    "gt_truncated": "Vilapicina is a station on line 5 of the Barcelona Metro."
+  },
+  {
+    "orig_idx": 6047,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6047,
+    "n_tokens": 16,
+    "gt_truncated": "Batucada is a 1967 album by Brazilian musician Walter Wanderley."
+  },
+  {
+    "orig_idx": 6080,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6080,
+    "n_tokens": 16,
+    "gt_truncated": "The World Group was the highest level of Fed Cup competition in 2010."
+  },
+  {
+    "orig_idx": 6149,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6149,
+    "n_tokens": 16,
+    "gt_truncated": "Hostyle Gospel is an American Christian hip hop group from Champaign, Illinois."
+  },
+  {
+    "orig_idx": 6163,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6163,
+    "n_tokens": 16,
+    "gt_truncated": "Belarus–Malaysia relations refers to bilateral foreign relations between Belarus and Malaysia."
+  },
+  {
+    "orig_idx": 6189,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6189,
+    "n_tokens": 14,
+    "gt_truncated": "The Hulu Perak District is a district in Perak, Malaysia."
+  },
+  {
+    "orig_idx": 6207,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6207,
+    "n_tokens": 14,
+    "gt_truncated": "Brgule is a village in the municipality of Ub, Serbia."
+  },
+  {
+    "orig_idx": 6214,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6214,
+    "n_tokens": 14,
+    "gt_truncated": "This is a list of some of the notable schools in Guyana."
+  },
+  {
+    "orig_idx": 6229,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6229,
+    "n_tokens": 15,
+    "gt_truncated": "No. 15 Squadron is a fighter squadron of the Indian Air Force."
+  },
+  {
+    "orig_idx": 6251,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6251,
+    "n_tokens": 15,
+    "gt_truncated": "Saiye (also, Saive) is a settlement in Ghana."
+  },
+  {
+    "orig_idx": 6269,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6269,
+    "n_tokens": 16,
+    "gt_truncated": "Dellona is a town in Sauk County, Wisconsin, United States."
+  },
+  {
+    "orig_idx": 6272,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6272,
+    "n_tokens": 15,
+    "gt_truncated": "Energía is the fourth studio album by Colombian singer J Balvin."
+  },
+  {
+    "orig_idx": 6300,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6300,
+    "n_tokens": 14,
+    "gt_truncated": "Dobok is the uniform worn by practitioners of Korean martial arts."
+  },
+  {
+    "orig_idx": 6314,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6314,
+    "n_tokens": 15,
+    "gt_truncated": "Sharona Fleming is a fictional character in the USA Network television series Monk."
+  },
+  {
+    "orig_idx": 6387,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6387,
+    "n_tokens": 14,
+    "gt_truncated": "The MSDC option in digital cameras stands for Mass Storage Device Class."
+  },
+  {
+    "orig_idx": 6402,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6402,
+    "n_tokens": 16,
+    "gt_truncated": "Catawba is a town in Price County, Wisconsin, United States."
+  },
+  {
+    "orig_idx": 6411,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6411,
+    "n_tokens": 16,
+    "gt_truncated": "Les Alleux is a former commune in the Ardennes department in northern France."
+  },
+  {
+    "orig_idx": 6431,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6431,
+    "n_tokens": 16,
+    "gt_truncated": "Scythris reflectella is a moth of the family Scythrididae."
+  },
+  {
+    "orig_idx": 6445,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6445,
+    "n_tokens": 15,
+    "gt_truncated": "Michael B. Percy is an academic and former politician in Alberta, Canada."
+  },
+  {
+    "orig_idx": 6448,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6448,
+    "n_tokens": 15,
+    "gt_truncated": "General elections were held in Western Samoa on 24 February 1973."
+  },
+  {
+    "orig_idx": 6513,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6513,
+    "n_tokens": 14,
+    "gt_truncated": "Travis Smith (born ) is a Canadian male  track cyclist."
+  },
+  {
+    "orig_idx": 6522,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6522,
+    "n_tokens": 16,
+    "gt_truncated": "High Standards is a jazz album by the Finnish band Trio Töykeät."
+  },
+  {
+    "orig_idx": 6538,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6538,
+    "n_tokens": 14,
+    "gt_truncated": "Puya venezuelana is a species in the genus Puya."
+  },
+  {
+    "orig_idx": 6540,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6540,
+    "n_tokens": 14,
+    "gt_truncated": "Haggen Food & Pharmacy is a grocery retailer in Washington state."
+  },
+  {
+    "orig_idx": 6546,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6546,
+    "n_tokens": 16,
+    "gt_truncated": "Lacona is a village in Oswego County, New York, United States."
+  },
+  {
+    "orig_idx": 6556,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6556,
+    "n_tokens": 15,
+    "gt_truncated": "World History was a compilation album by Christian rock band Mad at the World."
+  },
+  {
+    "orig_idx": 6565,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6565,
+    "n_tokens": 16,
+    "gt_truncated": "\"Cry Tough\" is the debut single by the American glam metal band Poison."
+  },
+  {
+    "orig_idx": 6597,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6597,
+    "n_tokens": 16,
+    "gt_truncated": "Mouhers is a commune in the Indre department in central France."
+  },
+  {
+    "orig_idx": 6606,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6606,
+    "n_tokens": 16,
+    "gt_truncated": "is a train station in Akashi, Hyōgo Prefecture, Japan."
+  },
+  {
+    "orig_idx": 6611,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6611,
+    "n_tokens": 16,
+    "gt_truncated": "Kick Axe IV is the fourth studio album by Canadian Heavy metal band Kick Axe."
+  },
+  {
+    "orig_idx": 6612,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6612,
+    "n_tokens": 15,
+    "gt_truncated": "Sevington is a contiguous suburb of Ashford, Kent in England."
+  },
+  {
+    "orig_idx": 6631,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6631,
+    "n_tokens": 15,
+    "gt_truncated": "Ireland competed at the 1960 Summer Olympics in Rome, Italy."
+  },
+  {
+    "orig_idx": 6633,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6633,
+    "n_tokens": 14,
+    "gt_truncated": "Delias putih  is a butterfly in the family Pieridae."
+  },
+  {
+    "orig_idx": 6652,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6652,
+    "n_tokens": 16,
+    "gt_truncated": "Roger Federer was the defending champion, but chose not to participate this year."
+  },
+  {
+    "orig_idx": 6663,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6663,
+    "n_tokens": 16,
+    "gt_truncated": "Roseville is a central-northern suburb of Pretoria, South Africa."
+  },
+  {
+    "orig_idx": 6724,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6724,
+    "n_tokens": 16,
+    "gt_truncated": "\"Slide Away\" is a song by the English rock band the Verve."
+  },
+  {
+    "orig_idx": 6726,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6726,
+    "n_tokens": 14,
+    "gt_truncated": "The fat tree network is a universal network for provably efficient communication."
+  },
+  {
+    "orig_idx": 6729,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6729,
+    "n_tokens": 16,
+    "gt_truncated": "This is a list of the mammal species recorded in the Faroe Islands."
+  },
+  {
+    "orig_idx": 6749,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6749,
+    "n_tokens": 16,
+    "gt_truncated": "Ægir (also Æger) is a figure in Norse mythology."
+  },
+  {
+    "orig_idx": 6765,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6765,
+    "n_tokens": 16,
+    "gt_truncated": "St Andrew's Academy is a Roman Catholic secondary school in Paisley, Scotland."
+  },
+  {
+    "orig_idx": 6778,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6778,
+    "n_tokens": 14,
+    "gt_truncated": "Tamás Lucsánszky is a Hungarian football manager."
+  },
+  {
+    "orig_idx": 6812,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6812,
+    "n_tokens": 16,
+    "gt_truncated": "Lily is a feminine given name directly derived from lily, the flower."
+  },
+  {
+    "orig_idx": 6816,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6816,
+    "n_tokens": 16,
+    "gt_truncated": "Elgin Academy is a secondary school in Elgin, Moray, Scotland."
+  },
+  {
+    "orig_idx": 6824,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6824,
+    "n_tokens": 16,
+    "gt_truncated": "Thiobarbital is a drug which is a barbiturate derivative."
+  },
+  {
+    "orig_idx": 6835,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6835,
+    "n_tokens": 16,
+    "gt_truncated": "Peter Fish is an American composer. He is a six-time Emmy Award winner."
+  },
+  {
+    "orig_idx": 6846,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6846,
+    "n_tokens": 16,
+    "gt_truncated": "Wexford County is a county in the U.S. state of Michigan."
+  },
+  {
+    "orig_idx": 6854,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6854,
+    "n_tokens": 15,
+    "gt_truncated": "Gillebert (Guillebert) de Berneville (fl."
+  },
+  {
+    "orig_idx": 6855,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6855,
+    "n_tokens": 16,
+    "gt_truncated": "Broadmere is a locality in the Shire of Banana, Queensland, Australia."
+  },
+  {
+    "orig_idx": 6905,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6905,
+    "n_tokens": 14,
+    "gt_truncated": "The gens Orbia was a minor plebeian family at Rome."
+  },
+  {
+    "orig_idx": 6930,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6930,
+    "n_tokens": 15,
+    "gt_truncated": "Winton is a city in Saint Louis County, Minnesota, United States."
+  },
+  {
+    "orig_idx": 6990,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6990,
+    "n_tokens": 14,
+    "gt_truncated": "The Border Surrender are an English rock band based in North London."
+  },
+  {
+    "orig_idx": 6995,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6995,
+    "n_tokens": 16,
+    "gt_truncated": "Stylus were an Australian blue-eyed soul group formed in 1975."
+  },
+  {
+    "orig_idx": 6997,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 6997,
+    "n_tokens": 15,
+    "gt_truncated": "Wandsworth London Borough Council, England, is elected every four years."
+  },
+  {
+    "orig_idx": 7037,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7037,
+    "n_tokens": 15,
+    "gt_truncated": "Perfect Pitch Black is the fourth studio album by American rock band Cave In."
+  },
+  {
+    "orig_idx": 7050,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7050,
+    "n_tokens": 14,
+    "gt_truncated": "The Kenya national cricket team represents the Republic of Kenya in international cricket."
+  },
+  {
+    "orig_idx": 7072,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7072,
+    "n_tokens": 15,
+    "gt_truncated": "The Mourning Bride is a tragedy written by British playwright William Congreve."
+  },
+  {
+    "orig_idx": 7091,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7091,
+    "n_tokens": 14,
+    "gt_truncated": "This is a videography for American rock band Widespread Panic."
+  },
+  {
+    "orig_idx": 7113,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7113,
+    "n_tokens": 16,
+    "gt_truncated": "Kloka () is a village in the municipality of Topola, Serbia."
+  },
+  {
+    "orig_idx": 7124,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7124,
+    "n_tokens": 16,
+    "gt_truncated": "Sings the Blues is a solo album by American rapper Pigeon John."
+  },
+  {
+    "orig_idx": 7134,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7134,
+    "n_tokens": 16,
+    "gt_truncated": "Last Year Was Complicated is the third solo album by American singer Nick Jonas."
+  },
+  {
+    "orig_idx": 7194,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7194,
+    "n_tokens": 14,
+    "gt_truncated": "Anthela astata is a moth of the Anthelidae family."
+  },
+  {
+    "orig_idx": 7250,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7250,
+    "n_tokens": 16,
+    "gt_truncated": "Luther v. Borden, 48 U.S. (7 How.)"
+  },
+  {
+    "orig_idx": 7299,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7299,
+    "n_tokens": 16,
+    "gt_truncated": "Ignacio Ramírez (born ) is a former Mexican male volleyball player."
+  },
+  {
+    "orig_idx": 7305,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7305,
+    "n_tokens": 16,
+    "gt_truncated": "Highland County is a county located in the U.S. state of Ohio."
+  },
+  {
+    "orig_idx": 7313,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7313,
+    "n_tokens": 14,
+    "gt_truncated": "Blue Bell Creameries is an American food company that manufactures ice cream."
+  },
+  {
+    "orig_idx": 7314,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7314,
+    "n_tokens": 15,
+    "gt_truncated": "Ashvek Vintage World is a vintage car museum in South Goa, India."
+  },
+  {
+    "orig_idx": 7324,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7324,
+    "n_tokens": 14,
+    "gt_truncated": "Pro Beach Hockey (PBH) was a professional inline hockey league."
+  },
+  {
+    "orig_idx": 7332,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7332,
+    "n_tokens": 16,
+    "gt_truncated": "Not to be confused with Somadeva, author of Kathasaritsagara."
+  },
+  {
+    "orig_idx": 7367,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7367,
+    "n_tokens": 15,
+    "gt_truncated": "An unauthorized biography is a biography written without the subject's permission or input."
+  },
+  {
+    "orig_idx": 7379,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7379,
+    "n_tokens": 15,
+    "gt_truncated": "KWJB was the call sign for several radio stations in Globe, Arizona."
+  },
+  {
+    "orig_idx": 7386,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7386,
+    "n_tokens": 14,
+    "gt_truncated": "\"Take Me Back to Tulsa\" is a Western swing standard song."
+  },
+  {
+    "orig_idx": 7411,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7411,
+    "n_tokens": 15,
+    "gt_truncated": "dtSearch Corp. is a software company which specializes in text retrieval software."
+  },
+  {
+    "orig_idx": 7449,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7449,
+    "n_tokens": 16,
+    "gt_truncated": "Pat Armstrong is a Canadian sociologist and Distinguished Research Professor at York University."
+  },
+  {
+    "orig_idx": 7505,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7505,
+    "n_tokens": 15,
+    "gt_truncated": "The Prießnitz is a river of Saxony, Germany."
+  },
+  {
+    "orig_idx": 7510,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7510,
+    "n_tokens": 15,
+    "gt_truncated": "The Collectors is a thriller novel written by American author David Baldacci."
+  },
+  {
+    "orig_idx": 7534,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7534,
+    "n_tokens": 16,
+    "gt_truncated": "National Instruments Corporation, or NI, is an American multinational company with international operation."
+  },
+  {
+    "orig_idx": 7541,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7541,
+    "n_tokens": 15,
+    "gt_truncated": "Nébias is a commune in the Aude department in southern France."
+  },
+  {
+    "orig_idx": 7542,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7542,
+    "n_tokens": 15,
+    "gt_truncated": "Johnstown is a town in Polk County, Wisconsin, United States."
+  },
+  {
+    "orig_idx": 7545,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7545,
+    "n_tokens": 15,
+    "gt_truncated": "is a Japanese science fiction manga series written and illustrated by Moto Hagio."
+  },
+  {
+    "orig_idx": 7561,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7561,
+    "n_tokens": 16,
+    "gt_truncated": "\"Ride the Wild Wind\" is a song by British rock band Queen."
+  },
+  {
+    "orig_idx": 7593,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7593,
+    "n_tokens": 14,
+    "gt_truncated": "Arkansas Department of Human Services v. Howard, 367 Ark."
+  },
+  {
+    "orig_idx": 7616,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7616,
+    "n_tokens": 15,
+    "gt_truncated": "Jovianney Emmanuel Cruz is a classical pianist from the Philippines."
+  },
+  {
+    "orig_idx": 7625,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7625,
+    "n_tokens": 16,
+    "gt_truncated": "Chelsea Football Club are an English professional football club based in Fulham, London."
+  },
+  {
+    "orig_idx": 7632,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7632,
+    "n_tokens": 15,
+    "gt_truncated": "Quadrant Routes in Pennsylvania are maintained by the Pennsylvania Department of Transportation."
+  },
+  {
+    "orig_idx": 7637,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7637,
+    "n_tokens": 16,
+    "gt_truncated": "\"Pilot\" is the series premiere to the Lifetime series Devious Maids."
+  },
+  {
+    "orig_idx": 7649,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7649,
+    "n_tokens": 15,
+    "gt_truncated": "Gift wrapping is the act of enclosing a gift in some sort of material."
+  },
+  {
+    "orig_idx": 7662,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7662,
+    "n_tokens": 16,
+    "gt_truncated": "\"Inno Nazionale\" is the national anthem of the Republic of San Marino."
+  },
+  {
+    "orig_idx": 7666,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7666,
+    "n_tokens": 14,
+    "gt_truncated": "This article deals with the history of the city of Glasgow, Scotland."
+  },
+  {
+    "orig_idx": 7667,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7667,
+    "n_tokens": 15,
+    "gt_truncated": "Wyken is a hamlet in the English county of Shropshire."
+  },
+  {
+    "orig_idx": 7735,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7735,
+    "n_tokens": 16,
+    "gt_truncated": "Where I Started is the third studio album by Canadian rock band Wide Mouth Mason."
+  },
+  {
+    "orig_idx": 7737,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7737,
+    "n_tokens": 16,
+    "gt_truncated": "Municipal elections were held in Moscow on 10 September 2017."
+  },
+  {
+    "orig_idx": 7745,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7745,
+    "n_tokens": 14,
+    "gt_truncated": "Children's radio is a radio format aimed primarily at preteen children."
+  },
+  {
+    "orig_idx": 7758,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7758,
+    "n_tokens": 16,
+    "gt_truncated": "Polychrysum is a genus of flowering plants in the daisy family."
+  },
+  {
+    "orig_idx": 7764,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7764,
+    "n_tokens": 14,
+    "gt_truncated": "FastPOS is a variant of POS malware discovered by Trend Micro researchers."
+  },
+  {
+    "orig_idx": 7772,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7772,
+    "n_tokens": 14,
+    "gt_truncated": "William Chapman (fl. 1626) was an English politician."
+  },
+  {
+    "orig_idx": 7792,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7792,
+    "n_tokens": 15,
+    "gt_truncated": "Monchecourt is a commune in the Nord department in northern France."
+  },
+  {
+    "orig_idx": 7801,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7801,
+    "n_tokens": 15,
+    "gt_truncated": "Hilversum is a railway station in Hilversum, Netherlands."
+  },
+  {
+    "orig_idx": 7818,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7818,
+    "n_tokens": 15,
+    "gt_truncated": "Kensington Heights is the fourth full-length album by the Constantines."
+  },
+  {
+    "orig_idx": 7820,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7820,
+    "n_tokens": 16,
+    "gt_truncated": "Liberty Lobby was a United States political advocacy organization founded in 1958."
+  },
+  {
+    "orig_idx": 7856,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7856,
+    "n_tokens": 15,
+    "gt_truncated": "Shawn Vestal is an American author based in the state of Washington."
+  },
+  {
+    "orig_idx": 7872,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7872,
+    "n_tokens": 16,
+    "gt_truncated": "Ivan Ridanović was a Yugoslavian football coach active in Africa."
+  },
+  {
+    "orig_idx": 7893,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7893,
+    "n_tokens": 15,
+    "gt_truncated": "Scan Group is a shipping and logistics  company based in Copenhagen, Denmark."
+  },
+  {
+    "orig_idx": 7903,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7903,
+    "n_tokens": 14,
+    "gt_truncated": "Messiah's Kingdom is a long poem by Agnes Bulmer."
+  },
+  {
+    "orig_idx": 7990,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 7990,
+    "n_tokens": 15,
+    "gt_truncated": "Union College is a private Seventh-day Adventist college in Lincoln, Nebraska."
+  },
+  {
+    "orig_idx": 8024,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8024,
+    "n_tokens": 15,
+    "gt_truncated": "The following is a list of newspapers in the Democratic Republic of the Congo."
+  },
+  {
+    "orig_idx": 8035,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8035,
+    "n_tokens": 15,
+    "gt_truncated": "Lovci is a village in the municipality of Jagodina, Serbia."
+  },
+  {
+    "orig_idx": 8047,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8047,
+    "n_tokens": 15,
+    "gt_truncated": "Carbrook is a suburb in the City of Logan, Queensland, Australia."
+  },
+  {
+    "orig_idx": 8125,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8125,
+    "n_tokens": 15,
+    "gt_truncated": "Walker Township is a township in Juniata County, Pennsylvania, United States."
+  },
+  {
+    "orig_idx": 8126,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8126,
+    "n_tokens": 15,
+    "gt_truncated": "Michael Williamson (born 1957) is an American photojournalist."
+  },
+  {
+    "orig_idx": 8152,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8152,
+    "n_tokens": 14,
+    "gt_truncated": "The Spence Bridge Formation is a geologic formation in British Columbia."
+  },
+  {
+    "orig_idx": 8164,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8164,
+    "n_tokens": 16,
+    "gt_truncated": "Fadi Azzam (born 1973) is a Syrian novelist."
+  },
+  {
+    "orig_idx": 8170,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8170,
+    "n_tokens": 15,
+    "gt_truncated": "Dubai TV is a channel offered by the Dubai Media Incorporated (DMI)."
+  },
+  {
+    "orig_idx": 8183,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8183,
+    "n_tokens": 15,
+    "gt_truncated": "Suri is the Persian noun for red rose and the adjective for red."
+  },
+  {
+    "orig_idx": 8184,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8184,
+    "n_tokens": 15,
+    "gt_truncated": "The Zimbabwe national netball team is the national netball team of Zimbabwe."
+  },
+  {
+    "orig_idx": 8254,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8254,
+    "n_tokens": 14,
+    "gt_truncated": "(also written 河本 and 川元) is a Japanese surname."
+  },
+  {
+    "orig_idx": 8267,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8267,
+    "n_tokens": 15,
+    "gt_truncated": "This is a list of francophone communities in the Canadian province of Ontario."
+  },
+  {
+    "orig_idx": 8273,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8273,
+    "n_tokens": 14,
+    "gt_truncated": "This is a list of characters from the anime series Macross Frontier."
+  },
+  {
+    "orig_idx": 8278,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8278,
+    "n_tokens": 16,
+    "gt_truncated": "Agraharahalli  is a village in the Indian state of Karnataka."
+  },
+  {
+    "orig_idx": 8304,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8304,
+    "n_tokens": 15,
+    "gt_truncated": "Heera is a 1973 film produced and directed by Sultan Ahmed."
+  },
+  {
+    "orig_idx": 8314,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8314,
+    "n_tokens": 15,
+    "gt_truncated": "\"Superficial Love\" is a single by Canadian singer Ruth B."
+  },
+  {
+    "orig_idx": 8315,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8315,
+    "n_tokens": 16,
+    "gt_truncated": "The racial and ethnic demographics of the United States have changed dramatically throughout its history."
+  },
+  {
+    "orig_idx": 8328,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8328,
+    "n_tokens": 15,
+    "gt_truncated": "Sanford station is a SunRail commuter rail station in Sanford, Florida."
+  },
+  {
+    "orig_idx": 8347,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8347,
+    "n_tokens": 16,
+    "gt_truncated": "Casa Piedra is a populated place situated in Santa Cruz County, Arizona."
+  },
+  {
+    "orig_idx": 8351,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8351,
+    "n_tokens": 15,
+    "gt_truncated": "Middlebrook is an unincorporated community on the Iron County/St."
+  },
+  {
+    "orig_idx": 8371,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8371,
+    "n_tokens": 15,
+    "gt_truncated": "Ophiotaenia ranae is a tapeworm from Japan."
+  },
+  {
+    "orig_idx": 8389,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8389,
+    "n_tokens": 15,
+    "gt_truncated": "Generations Lost is a cinematic platform action video game similar to Flashback."
+  },
+  {
+    "orig_idx": 8394,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8394,
+    "n_tokens": 14,
+    "gt_truncated": "The ZLM Tour is a cycling race held annually in the Netherlands."
+  },
+  {
+    "orig_idx": 8411,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8411,
+    "n_tokens": 14,
+    "gt_truncated": "openMSX is a free software emulator for the MSX architecture."
+  },
+  {
+    "orig_idx": 8472,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8472,
+    "n_tokens": 15,
+    "gt_truncated": "Bruce Linghu (; born January 1954) is a Taiwanese diplomat."
+  },
+  {
+    "orig_idx": 8491,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8491,
+    "n_tokens": 15,
+    "gt_truncated": "Malborough is a village located in the South Hams region of Devon."
+  },
+  {
+    "orig_idx": 8499,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8499,
+    "n_tokens": 14,
+    "gt_truncated": "Versailles is the eponymous fourth studio album by Versailles."
+  },
+  {
+    "orig_idx": 8506,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8506,
+    "n_tokens": 16,
+    "gt_truncated": "Baltersan Castle is a ruined castle located near Maybole, Scotland."
+  },
+  {
+    "orig_idx": 8542,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8542,
+    "n_tokens": 15,
+    "gt_truncated": "Paraburkholderia unamae is a species of bacteria."
+  },
+  {
+    "orig_idx": 8568,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8568,
+    "n_tokens": 16,
+    "gt_truncated": "Alan Holmes is a musician, artist and record producer, based in north Wales."
+  },
+  {
+    "orig_idx": 8571,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8571,
+    "n_tokens": 14,
+    "gt_truncated": "Paper Airplane is an album by Alison Krauss and Union Station."
+  },
+  {
+    "orig_idx": 8573,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8573,
+    "n_tokens": 15,
+    "gt_truncated": "The 1927 Tour of Flanders was held in 1927."
+  },
+  {
+    "orig_idx": 8617,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8617,
+    "n_tokens": 16,
+    "gt_truncated": "Blizonje is a village in the municipality of Valjevo, Serbia."
+  },
+  {
+    "orig_idx": 8621,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8621,
+    "n_tokens": 15,
+    "gt_truncated": "Produce 101 Season 2 is a South Korean reality television show."
+  },
+  {
+    "orig_idx": 8642,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8642,
+    "n_tokens": 16,
+    "gt_truncated": "Boned! is the seventh and final album released by The Twelfth Man."
+  },
+  {
+    "orig_idx": 8663,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8663,
+    "n_tokens": 16,
+    "gt_truncated": "Gunn Point is an outer rural locality in Darwin, Northern Territory, Australia."
+  },
+  {
+    "orig_idx": 8696,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8696,
+    "n_tokens": 15,
+    "gt_truncated": "James Hickman (born 1976) is a British swimmer."
+  },
+  {
+    "orig_idx": 8697,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8697,
+    "n_tokens": 16,
+    "gt_truncated": "Lough Meelagh () is a freshwater lake in the northwest of Ireland."
+  },
+  {
+    "orig_idx": 8704,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8704,
+    "n_tokens": 14,
+    "gt_truncated": "Julius Anatolyevich Schrader, OP [Yu."
+  },
+  {
+    "orig_idx": 8710,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8710,
+    "n_tokens": 14,
+    "gt_truncated": "Universal McCann (UM) is a global media and advertising agency."
+  },
+  {
+    "orig_idx": 8753,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8753,
+    "n_tokens": 15,
+    "gt_truncated": "Annual Review of Biomedical Engineering is an academic journal published by Annual Reviews."
+  },
+  {
+    "orig_idx": 8787,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8787,
+    "n_tokens": 15,
+    "gt_truncated": "Taylor Regional Hospital (TRH) is located in Campbellsville, Kentucky."
+  },
+  {
+    "orig_idx": 8836,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8836,
+    "n_tokens": 14,
+    "gt_truncated": "Greatest Hits Live is a live album by English band Strawbs."
+  },
+  {
+    "orig_idx": 8882,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8882,
+    "n_tokens": 15,
+    "gt_truncated": "James Collins is a sports nutritionist. Currently specialising in elite football."
+  },
+  {
+    "orig_idx": 8883,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8883,
+    "n_tokens": 15,
+    "gt_truncated": "The Hercules W-2000 was a motorcycle made by Hercules in Germany."
+  },
+  {
+    "orig_idx": 8885,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8885,
+    "n_tokens": 16,
+    "gt_truncated": "Club Atlético Anglo is a football club from Fray Bentos in Uruguay."
+  },
+  {
+    "orig_idx": 8907,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8907,
+    "n_tokens": 15,
+    "gt_truncated": "Tzelem is a rabbinic social justice movement in the UK."
+  },
+  {
+    "orig_idx": 8921,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8921,
+    "n_tokens": 15,
+    "gt_truncated": "Upper Little York Lake is a lake located by Little York, New York."
+  },
+  {
+    "orig_idx": 8937,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8937,
+    "n_tokens": 15,
+    "gt_truncated": "Cabañas is a municipality in the Honduran department of Copán."
+  },
+  {
+    "orig_idx": 8962,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8962,
+    "n_tokens": 15,
+    "gt_truncated": "Data curation is the organization and integration of data collected from various sources."
+  },
+  {
+    "orig_idx": 8996,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 8996,
+    "n_tokens": 15,
+    "gt_truncated": "Charlier is a crater in the Mare Australe quadrangle of Mars."
+  },
+  {
+    "orig_idx": 9002,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 9002,
+    "n_tokens": 14,
+    "gt_truncated": "Serie A is the second tier of the Italian Rugby Union championship."
+  },
+  {
+    "orig_idx": 9009,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 9009,
+    "n_tokens": 15,
+    "gt_truncated": "An herb farm is usually a farm where herbs are grown for market sale."
+  },
+  {
+    "orig_idx": 9010,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 9010,
+    "n_tokens": 14,
+    "gt_truncated": "Day by Day is a daily meditation book for alcoholics and addicts."
+  },
+  {
+    "orig_idx": 9018,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 9018,
+    "n_tokens": 16,
+    "gt_truncated": "Rotosound is a British guitar and bass string manufacturing company based in England."
+  },
+  {
+    "orig_idx": 9035,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 9035,
+    "n_tokens": 15,
+    "gt_truncated": "Jim Beardmore is a former All-American lacrosse goalie, and coach."
+  },
+  {
+    "orig_idx": 9042,
+    "shard": "the-pile-splitted-test-00000-of-00032.arrow",
+    "local_idx": 9042,
+    "n_tokens": 15,
+    "gt_truncated": "Bödeháza is a village in Zala County, Hungary."
+  }
+]

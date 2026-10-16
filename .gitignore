@@ -1,0 +1,139 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Editor / tooling
+.vscode/
+.idea/
+.claude/
+*.zip
+
+# ---------------------------------------------------------------------------
+# Secrets — never commit
+# ---------------------------------------------------------------------------
+.env
+*.env
+.env.*
+*.env.*
+env.sh
+*env.sh
+setup_env.sh
+secrets.*
+*_token.txt
+*apikey*
+*api_key*
+# NOTE: no "!.env.example" exception on purpose — the existing vast/.env.example
+# contains a real HF token, not a placeholder. Scrub it before ever un-ignoring it.
+
+# ---------------------------------------------------------------------------
+# Internal notes & working docs — NOT for public release.
+# Default-deny all markdown; allowlist only the docs written for release.
+# ---------------------------------------------------------------------------
+*.md
+!README.md
+!CONTRIBUTING.md
+!docs/**/*.md
+# Upstream vec2text docs must be retained (SOM License 3(E) attribution)
+!experiments/vec2text/README.md
+
+# Explicitly internal, even if an allowlist rule above ever widens
+REPRO.md
+exp_process.md
+metric.md
+oracle_design.md
+experiment?logs.md
+SETUP_VAST.md
+
+# ---------------------------------------------------------------------------
+# Cluster-specific / machine-specific — not portable, not useful to others
+# ---------------------------------------------------------------------------
+code/
+vast/
+tmp_trainer/
+slurm-*.out
+*.sbatch
+
+# Exception to the secrets patterns above: verified secret-free project config
+!sh/setup_env.sh
+
+# Superseded environment files (replaced by requirements.txt)
+embedding_env.yaml
+requirements_20260504_nompi.txt
+
+# ---------------------------------------------------------------------------
+# Never upload data or regenerable artifacts
+# ---------------------------------------------------------------------------
+datasets/**
+!datasets/prompts/
+!datasets/prompts/**
+results/**
+tmp/**
+weights/**
+logs/**
+wandb/**
+figs/
+fig/
+
+# Result/output file types — never commit anywhere in repo
+*.json
+*.csv
+*.pkl
+*.npz
+*.npy
+*.tsv
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Exceptions: known code/config JSON files
+!labels.json
+!datasets/prompts/*.json
+!experiments/vec2text/**/*.json
+
+# Model weights & checkpoints
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Run outputs — ignore under any folder (including experiments/)
+experiments/results/
+experiments/saves/
+experiments/outputs/
+experiments/logs/
+experiments/weights/
+experiments/tmp/
+experiments/wandb/
+
+# Ad-hoc full_sentence experiments (not part of formal pipeline)
+experiments/full_sentence/
+
+# ---------------------------------------------------------------------------
+# vec2text baseline (vendored fork of jxmorris12/vec2text, SOM License v1.0)
+# Run outputs only — the source itself is retained together with its LICENSE.
+# ---------------------------------------------------------------------------
+experiments/vec2text/slurm-*.out
+experiments/vec2text/*cache/
+experiments/vec2text/*.p
+experiments/vec2text/venv/
+experiments/vec2text/build/
+experiments/vec2text/dist/
+experiments/vec2text/vec2text.egg-info/
+experiments/vec2text/embeddings/
+experiments/vec2text/notebook*/
+experiments/vec2text/msmarco_msl128_hypotheses/
+experiments/vec2text/saves/
+experiments/vec2text/slurm-scripts/
+experiments/vec2text/test/results/
+experiments/vec2text/wandb/
+experiments/vec2text/logs/
+experiments/vec2text/sh/
+# contains a hardcoded WANDB_API_KEY — must be scrubbed before it can be tracked
+experiments/vec2text/run.sh

@@ -1,0 +1,20 @@
+name: embedding
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - cudatoolkit=11.8
+  - pytorch
+  - torchvision
+  - torchaudio
+  - ipykernel
+  - mpi4py
+  - pip:
+      - accelerate
+      - datasets
+      - peft
+      - pytest
+      - transformer-lens
+      - transformers

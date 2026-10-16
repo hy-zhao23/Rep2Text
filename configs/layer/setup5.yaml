@@ -1,0 +1,33 @@
+models:
+  dec_id: "meta-llama/Llama-3.1-8B"
+  emb_layer: 5
+  emb_id: "meta-llama/Llama-3.1-8B"
+
+params:
+  max_len: 16 # maximum num of predicted tokens for data processing (changed from 128)
+  max_seq_len: 200 # cap total prompt+answer length
+  gen_max_len: 16 # max new tokens to generate during eval
+  overlap_len: 0 # num of overlapped tokens between training samples (reduced proportionally)
+  train_size: 2000000 # 2M sequences
+  train_data: "wikipedia"
+  embedding_batch_size: 1000
+  save_every: 50
+  pretrain_ratio: 0.4 # finetune ratio is 0.6 then
+
+dir:
+  result_dir: "results"
+  tmp_dir: "tmp"
+  embedding_dir: "tmp/embeddings"
+  token_dir: "tmp/tokens"
+  fig_dir: "results/figs"
+  data_dir: "datasets"
+  weight_dir: "weights"
+  checkpoint_dir: "tmp/checkpoints"
+  prompt_dir: "prompts"
+
+projector:
+  n_vecs: 16
+  ei_proj_dropout: 0.2
+  ei_proj_expansion: 0.5
+  use_patch_token: true
+  pad_side: "right"

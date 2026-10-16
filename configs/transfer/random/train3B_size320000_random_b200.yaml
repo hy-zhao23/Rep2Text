@@ -1,0 +1,37 @@
+# 2× B200 variant of train3B_size320000_random.yaml.
+# B200 192 GB HBM3 lets us push per-GPU batch to 256 with no gradient accumulation.
+# eff_bs = batch_size × grad_accum_steps × world_size = 256 × 1 × 2 = 512 (same as 2× A100 baseline)
+data:
+  shuffle: true
+  num_workers: 2
+  pin_memory: true
+
+training:
+  num_epochs: 4
+  batch_size: 256             # per-GPU on 192GB B200 — saturates the GPU
+  grad_accum_steps: 1         # no accumulation — every step syncs (eff_bs stays 512: 256 × 1 × 2)
+  max_grad_norm: 1.0
+  warmup_ratio: 0.15
+  use_scheduler: true
+  dropout: 0.1
+  betas: [0.9, 0.95]
+  eps: 1e-8
+  learning_rate: 7.0e-4       # unchanged — eff_bs is preserved
+  min_lr_ratio: 0.15
+  weight_decay: 0.01
+  label_smoothing: 0.075
+  tau: 0.9
+  sim_penalty: false
+  sim_weight: 0.5
+  eval_every: 200
+  val_max_samples: 1000
+  early_stop:
+    enabled: true
+    patience: 5
+    min_delta: 0.001
+
+logging:
+  wandb_project: einv-adapter-pretrain-sweep
+  log_every: 20
+  progress_update_freq: 10
+  group: "Adapter-3B-random-320k-2b200"
